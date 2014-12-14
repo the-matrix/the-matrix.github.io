@@ -2,7 +2,8 @@
 
 title:            The Matrix
 locale:           en_GB
-url:              http://localhost:4000
+#url:              http://localhost:4000
+url:              http://the-matrix.github.io
 
 
 # Jekyll configuration

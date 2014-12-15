@@ -2,8 +2,8 @@
 
 title:            The Matrix
 locale:           en_GB
-#url:              http://localhost:4000
-url:              http://the-matrix.github.io
+url:              http://localhost:4000
+#url:              http://the-matrix.github.io
 
 
 # Jekyll configuration
@@ -34,6 +34,7 @@ owner:
   disqus-shortname: thematrix
   twitter: #username
   facebook: ashley.kitson.77
+  facebook-appid: 743549355735371
   google:
     plus: #username
     analytics: UA-57657486-1

@@ -8,6 +8,7 @@ tags: ["indian", "rice"]
 image:
   feature: the-matrix-slim.jpg
 date: 2014-12-15T20:27:50+00:00
+comments: true
 ---
 
 <figure>

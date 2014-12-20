@@ -3,7 +3,7 @@ layout: page
 title: Available PHP packages
 excerpt: "PHP packages from the matrix and chippyash"
 tags: [packages, github, packagist]
-modified: 2014-12-14T14:00:07.573882-04:00
+modified: 2014-12-20T08:29:07.573882-04:00
 comments: false
 image:
   feature: the-matrix-slim.jpg
@@ -114,6 +114,16 @@ image:
 ### Other stuff
 
 <dl>
+    <dt>Authentication Manager</dt>
+    <dd>Generic authentication management of identities
+        <dl>
+            <dt>Github</dt>
+            <dd><a href="https://github.com/chippyash/Authentication-Manager">https://github.com/chippyash/Authentication-Manager</a></dd>
+            <dt>Packagist</dt>
+            <dd><a href="https://packagist.org/packages/chippyash/authentication-manager">https://packagist.org/packages/chippyash/authentication-manager</a></dd>
+        </dl>
+    </dd>
+
     <dt>Testdox Converter</dt>
     <dd>Testdox html to Markdown conversion utility
         <dl>
@@ -133,4 +143,5 @@ service users and their relationships.
             <dd><a href="https://github.com/chippyash/ZF4-Family-Map">https://github.com/chippyash/ZF4-Family-Map</a></dd>
         </dl>
     </dd>
+
 </dl>

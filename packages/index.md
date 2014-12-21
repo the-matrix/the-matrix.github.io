@@ -109,6 +109,16 @@ image:
             <dd><a href="https://packagist.org/packages/chippyash/builderpattern">https://packagist.org/packages/chippyash/builderpattern</a></dd>
         </dl>
     </dd>
+
+    <dt>Zend ACL from XML Builder</dt>
+    <dd>Utilising the Builder Pattern to generate a Zend2 Permissions/ACL definition
+        <dl>
+            <dt>Github</dt>
+            <dd><a href="https://github.com/chippyash/Zend-Acl-Xml-Builder">https://github.com/chippyash/Zend-Acl-Xml-Builder</a></dd>
+            <dt>Packagist</dt>
+            <dd><a href="https://packagist.org/packages/chippyash/zend-acl-xml-builder">https://packagist.org/packages/chippyash/zend-acl-xml-builder</a></dd>
+        </dl>
+    </dd>
 </dl>
 
 ### Other stuff

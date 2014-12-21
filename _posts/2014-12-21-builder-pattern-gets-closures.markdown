@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Builder Pattern Gets Closures"
-modified:
+modified: 014-12-21T12==19:35:07+00:00
 categories: PHP
 excerpt: New feature release for Builder Pattern
 tags: [builder, pattern, closures]
@@ -26,8 +26,9 @@ for a build parameter to be defined as a closure. e.g.
     }
 </pre>
 
-This adds a greater degree of flexibility to the build mechanism. The forthcoming
-chippyash\Zend\Acl XML builder will make use of this.
+This adds a greater degree of flexibility to the build mechanism. The 
+chippyash\Zend\Acl XML builder makes of this.
 
 - [Builder Pattern](https://github.com/chippyash/Builder-Pattern)
+- [Zend ACL from XML](https://github.com/chippyash/Zend-Acl-Xml-Builder)
  

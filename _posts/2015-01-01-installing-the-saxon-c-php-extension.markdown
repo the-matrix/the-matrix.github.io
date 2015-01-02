@@ -58,6 +58,12 @@ Link the dynamic saxon library so it can be found:
     ln -s /usr/lib/Saxonica/Saxon-HEC0.3.1/libsaxon.so /usr/lib/libsaxon.so
 </pre>
 
+Link the jetvm library so it can be found:
+
+<pre>
+    ln -s /usr/lib/Saxonica/Saxon-HEC0.3.1/rt /usr/lib/rt
+</pre>
+
 create the LD config file for Jetvm (I use nano, use whatever editor you are familiar with): 
 
 <pre>

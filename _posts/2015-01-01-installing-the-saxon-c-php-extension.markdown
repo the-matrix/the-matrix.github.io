@@ -2,7 +2,7 @@
 layout: post
 title: "Installing the Saxon/C PHP Extension"
 excerpt: Enabling XSLT2 support for PHP applications
-modified:
+modified: 2015-01-02T09:05:32+00:00
 categories: PHP
 tags: [PHP,XSLT,XML,Saxon,Saxonica]
 image:
@@ -147,3 +147,8 @@ should display
 E&OE
 
 Now it's time for a curry!
+
+p.s. You may find these links helpful:
+
+- [Stack overflow](http://stackoverflow.com/questions/3873996/upgrade-php-xslt-processor-to-xslt-2-0)
+- [Saxon/C PHP API](http://www.saxonica.com/saxon-c/php_api.xml)

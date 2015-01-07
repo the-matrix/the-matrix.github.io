@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating Zend ACL Definitions From XML"
-modified:
+modified: 2015-01-07T19:45:00+00:00
 categories: PHP
 excerpt: How to create a Zend ACL definition from an XML file
 tags: [builder,pattern,xml,zend,acl]
@@ -49,7 +49,13 @@ Next step:
 
 - See if I can bend/amend Jeremy's work to fit my requirement.
 
+### Update:
 
+I've now added the ability to import other ACL definitions and pass in ACL
+definitions as text rather than as just filenames.  This allows you to build
+complex ACLs from multiple parts and include the builder as part of a workflow
+to create an ACL.  Also, the XML definition (XSD) is publicly available via a
+URL.  See the docs for more detail.
 
 
 

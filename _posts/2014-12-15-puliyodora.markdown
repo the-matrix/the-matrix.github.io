@@ -15,8 +15,7 @@ comments: true
 	<a href="/images/bbcb/pict2412.jpg"><img src="/images/bbcb/pict2412.jpg"></a>
 	<figcaption>Punting on the river. Wealthier tourists can have a day boat for quite a lot of money</figcaption>
 </figure>
-https://www.flickr.com/photos/129802308@N05/16218671246/
-{% flickr_photo 16218671246 %}
+
 
 This is a South Indian recipe that I first came across in a book by <a href="http://www.spicebox.co.uk/" title="Rafi's Spicebox" target="_blank">Rafi Fernandez</a>. 
 She is one of the main reasons, along with the now defunct Ganpath Restaurant in 

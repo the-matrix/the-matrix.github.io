@@ -23,9 +23,6 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   use_coderay: false
-
-flickr:
-    api_key: e3190e782586af8a45f1bef8493ce963
     
 # Site owner
 owner:
@@ -56,6 +53,6 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
-
+      
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

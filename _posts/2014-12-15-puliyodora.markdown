@@ -16,7 +16,6 @@ comments: true
 	<figcaption>Punting on the river. Wealthier tourists can have a day boat for quite a lot of money</figcaption>
 </figure>
 
-
 This is a South Indian recipe that I first came across in a book by <a href="http://www.spicebox.co.uk/" title="Rafi's Spicebox" target="_blank">Rafi Fernandez</a>. 
 She is one of the main reasons, along with the now defunct Ganpath Restaurant in 
 the Kings Cross area of London, that I cook a lot of South Indian food. Before I 

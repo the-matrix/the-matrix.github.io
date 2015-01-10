@@ -24,7 +24,9 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
-
+flickr:
+    api_key: e3190e782586af8a45f1bef8493ce963
+    
 # Site owner
 owner:
   name: Ashley Kitson

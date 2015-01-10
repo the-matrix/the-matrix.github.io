@@ -19,6 +19,9 @@ image:
 many years ago to remember.  It's been defunct for a few years now so I thought
 it might be fun to sort of relaunch it here as an archive of the recipes.</p>
 
+<p>You can find the <a href="/big-boys-curry-book/glossary/">glossary here</a></p>
+
+<h3>The recipes</h3>
   <ul class="post-list">
     {% assign sorted_pages = (site.categories.big-boys-curry-book | sort: 'title') %}
     {% for post in sorted_pages %}

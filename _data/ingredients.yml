@@ -1,0 +1,1864 @@
+%YAML 1.1
+---
+# zfbiz1_bbcb.zf4rcp_ingredient
+-
+  id: 1
+  name: "Allspice"
+  altname: "Kabab Chini"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 2
+  name: "Almond"
+  altname: "Badam"
+  desc: "Ground almonds are used in many rich sauces to add flavour and thickening"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 3
+  name: "Aniseed"
+  altname: "Anisoo"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 4
+  name: "Apple"
+  altname: "Sev"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 5
+  name: "Apricot"
+  altname: "Kurbani"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 6
+  name: "Apricot (Dried)"
+  altname: "Jardaloo"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 7
+  name: "Asafoetida"
+  altname: "Hing, Kayam"
+  desc: "This is the sap or resin from a giant fennel-like plant. Although this resin is available in block or powdered form, buy the powder. It is an aroma enhancer and a strong aid to digestion particularly in lentil (dhal) dishes"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 8
+  name: "Aubergine"
+  altname: "Egg plant, Brinjal, Baingan, Ghaigon, Kathrikka"
+  desc: "These are popular vegetables in India and are used in a variety of sizes You will need an Indian grocer for the full range of sizes"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-19 18:19:44"
+-
+  id: 9
+  name: "Balti"
+  altname: ""
+  desc: "A style of one pot cooking reputed to have originated in Baltistan but much developed in Birmingham and the Midlands"
+  glsryOnly: 1
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:22:46"
+-
+  id: 10
+  name: "Banana"
+  altname: "Kacha Kela, Kela"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 11
+  name: "Banana leaves"
+  altname: ""
+  desc: "Used as a plate in the cheaper Indian restaurants they are also used for wrapping food to be cooked, banana leaves also impart a flavour"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 12
+  name: "Bargar"
+  altname: ""
+  desc: "Frying spices in hot oil to release their aromatic flavours"
+  glsryOnly: 1
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:22:46"
+-
+  id: 13
+  name: "Basil Leaf"
+  altname: "Cocums"
+  desc: "Not to be confused with Kokum, this is similar but drier than the European sweet basil, which can be substituted Not a common herb in Indian food, being more used in Thai food, it crops up occasionally and makes a splendid difference"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 14
+  name: "Bay Leaves"
+  altname: ""
+  desc: "A form of laurel, Bay is used in European cooking as well as Indian. Most often the dried form are used in Indian cooking but if you happen to have a bay tree, use the fresh form except when making masalas for storing. Sometimes known as Tej Patta, which is really the cinnamon leaf"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 15
+  name: "Beef"
+  altname: "Gai ka gosht"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 16
+  name: "Beetroot"
+  altname: "Chukandar"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 17
+  name: "Bharjia"
+  altname: ""
+  desc: "See Pakora"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 18
+  name: "Bhujia"
+  altname: ""
+  desc: "A dry curry. Often misnamed Barjia as in Mushroom Barjia"
+  glsryOnly: 1
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:22:46"
+-
+  id: 19
+  name: "Bhuna"
+  altname: ""
+  desc: "Sizzling a spice paste in hot oil before other ingredients are added or turning over meat in a spice mix for an extended period so that the spices are cooked into the meat"
+  glsryOnly: 1
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:22:46"
+-
+  id: 20
+  name: "Bitter Gourds"
+  altname: "Karela"
+  desc: "A bitter gourd favoured for its blood cleansing properties. These sometimes appear in the supermarket but you are more likely to get them in your local Indian foodstore. They have the appearance of a severely deformed knobbly bright green cucumber, in size between 3 and 7 inches in length. To prepare, scrape off all the green knobbly skin down to white flesh. Then cut in half across the vegetable's width Scoop out all the pips and pith inside to leave the flesh of the gourd casing. Cut this into thin rounds rather as you might with squid. Cover the karela hoops with plenty of salt and leave overnight. The salt helps to remove some of the bitterness. The next day, wash in plenty of cold water. You can salt the vegetable for much less time if you wish and this is purely up to your own taste buds. When I cook karela I only salt them for a couple of hours. Cook as instructed. Karala are an aquired taste, but they are quite delicious in my view"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 21
+  name: "Black Cumin"
+  altname: "Kala Lea"
+  desc: "Smaller, rarer and more expensive than its white cousin, often used in rice and vegetable dishes"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 22
+  name: "Black mustard"
+  altname: "Rai, Sarson"
+  desc: "Often used whole as a flavouring, most usually fried till they pop. An essential part of many Tarkas When skinned and ground this forms a yellow mustard powder"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 23
+  name: "Black Salt"
+  altname: "Kala Namak"
+  desc: "Strong-smelling rock salt sold both ground and in lump form"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 24
+  name: "Bread"
+  altname: "Roti"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 25
+  name: "Brown (or Black) Cardamoms"
+  altname: "Barra Elaichi"
+  desc: "The bigger, courser cousin of the Green Cardamom. This is no delicate spice. Often used in the richer sauces where the Green Cardamom would be overwhelmed"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 26
+  name: "Butter"
+  altname: "Makhan"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 27
+  name: "Buttermilk"
+  altname: "Lassi"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 28
+  name: "Cabbage"
+  altname: "Bandh gobi"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 29
+  name: "Capsicum"
+  altname: "(Green Pepper), Simla Mirch"
+  desc: "Actually, any colour pepper will do, although red tend to be sweeter than green"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 30
+  name: "Caraway seed"
+  altname: "Shahjeera"
+  desc: "Like the cummin seed, but with a sweeter taste Often used in middle European cooking, it is not used often in Indian cookery"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 31
+  name: "Carrot"
+  altname: "Gajar"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 32
+  name: "Cashew Nuts"
+  altname: "Kaju"
+  desc: "Use the unsalted variety found in most supermarkets in the baking section"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 33
+  name: "Cassia"
+  altname: ""
+  desc: "A more robust and cheaper version of Cinnamon but with otherwise similar flavour. Almost exclusively found in the form of chips of bark. In India, used interchangeably with cinnamon for savoury dishes"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 34
+  name: "Cauliflower"
+  altname: "Phool gobi"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 35
+  name: "Celery"
+  altname: "Doroo, Silery"
+  desc: "Used as a flavouring herb rather than a vegetable"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 36
+  name: "Charoli Nut"
+  altname: ""
+  desc: "Like a hazelnut, these, like the pistachio are often used in meat and sweet dishes You could substitute sunflower seeds"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 37
+  name: "Chhana"
+  altname: ""
+  desc: "This is homemade cheese that is made in the same way as Paneer except that it is not pressed, instead being left to be soft and crumbly like cottage cheese See entry on Paneer for further information"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 38
+  name: "Chicken"
+  altname: "Murgh, Kozhi"
+  desc: "Indian chickens are scrawnier than our western factory farmed and water injected variety. Usually chicken is cooked on the bone and skinless. Try to find a free range chicken for preference or you could try Guinea fowl. Pieces of chicken are called farcha"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 39
+  name: "Chilli powder"
+  altname: "Cayenne Pepper, Lal Mirch"
+  desc: "You can buy this or make your own by grinding up dried red chillies. Indian bought varieties will be a mix of chillies whereas Mexican and American may also contain coriander, cummin etc. Check the ingredient list. If in doubt make your own."
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 40
+  name: "Cinnamon"
+  altname: "Dalchini, Karuva Patta"
+  desc: "Available in stick and powdered forms. It is the dried bark of the cinnamon shrub. Buy the stick form for preference and grind it if necessary for a recipe"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 41
+  name: "Cinnamon Leaf"
+  altname: "Tej Patta, Vazhana Ela"
+  desc: "Very similar to a Bay leaf which can be substituted"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 42
+  name: "Cloves"
+  altname: "Lavang, Grambu"
+  desc: "Well known to the apple pie maker, cloves are used in a similar way to cardamoms, to impart a fragrance in flavour and bouquet"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 43
+  name: "Cluster Beans"
+  altname: "Gavar"
+  desc: "Small green bean. Substitute with fine French beans if you cannot get them"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 44
+  name: "Coconut"
+  altname: "Naryal"
+  desc: "Both the meat and milk of the coconut are used extensively, especially in southern Indian cookery. A fresh coconut is heavy and full of juice. To open, use a corkscrew to open an eye which should be free of mould, Usually only one of the eyes will open in this way. Shake out the coconut juice into a cup and drink it yourself or give it to a child. Break the shell by dropping the nut onto a concrete surface. After breaking open the shell, the coconut meat can be prised away. The juice is not coconut milk. Dried coconut is known as Copra in Hindi and Coconut oil is Naryal ka tel"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 45
+  name: "Coconut milk"
+  altname: ""
+  desc: "To make 450 ml, (3 pint). Empty 225 g (8 oz) unsweetened desiccated coconut into a food processor or blender. Pour over 450 Ml (3 pint) boiling hot water and process for 20-30 seconds. Turn into a large bowl and add an extra 150 ml (1 pint) hot water Leave to cool, then strain the coconut milk through a fine sieve (lined with muslin if possible), squeezing the coconut to extract the milk. Cover and store in the refrigerator; the coconut cream will quickly rise to the surface and can be skimmed off for separate use if required. You can use coconut powder to make coconut milk. You can buy it in Indian stores and some supermarkets. Always useful to have around. For the best coconut milk, grate a whole fresh nut (using a food processer). Add 250ml hot water and grind for a minute  Press the pulp through muslin into a bowl. Repeat twice more  This will give you about 800ml to 1litre of milk in varying consistencies"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 46
+  name: "Coriander"
+  altname: "Dhania Patha, Malli Ela (Cilantro)"
+  desc: "This is the quintessential Indian herb, the Italian Basil of the curry. Used throughout the continent for flavouring and garnishing. It has a beautiful aroma. To get the full effect, use towards the end of cooking. The little pots of coriander sold at the supermarket are frankly a waste of time and money. Some supermarkets are starting to sell bunches of the stuff just as they do in the Indian stores. Buy that, as most recipes call for a handful and the potted versions are lucky to contain a fingerful. It is quite difficult to grow in the UK as it tends to bolt very quickly. Some authors recommend parsley as an alternative. I would say, only in extremis and only for garnishing"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 47
+  name: "Coriander seed"
+  altname: "Dhania, Kotha Malli"
+  desc: "Available in whole seed or powdered form. For preference buy the seed and grind when required to get the best flavour Coriander along with Cummin form the base of most masalas"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 48
+  name: "Corn"
+  altname: "Makai"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 49
+  name: "Crab"
+  altname: "Kekra"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 50
+  name: "Cream"
+  altname: "Malai"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 51
+  name: "Cucumber"
+  altname: "Kheera, Vellarikka"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 52
+  name: "Cumin"
+  altname: ""
+  desc: "see White Cumin"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 53
+  name: "Curry Leaf"
+  altname: "Neem, Curry patta, Kari phulia"
+  desc: "Much loved in southern Indian cookery, these are sold fresh in Indian foodstores and can be kept well in the freezer in a freezer bag. Use the dried variety only if you cannot get the fresh sort"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 54
+  name: "Dates"
+  altname: "Khajoor, Eetha Pazham"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 55
+  name: "Lentil"
+  altname: "Dhal"
+  desc: "Lentils and pulses form a staple part of the Indian diet especially in the southern vegetarian regions. There are hundreds, these are just the common ones you will come across in the UK; Urid dhal, Chick peas, Bengal Gram, Toor dhal, Mung Beans, Mustard dhal, Red Lentils, Red Kidney Beans"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 56
+  name: "Black matape"
+  altname: "Urhad dhal, Urid dhal, Oozhunnu Parippu"
+  desc: "Black skinned white lentil. More bitter than others but good when used in a lentil mixture. Also used as a spice by frying them in oil which then imparts a nutty flavour to other ingredients added after. The whole variety goes under the names Sabut Urad or Ma Di Dal"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 57
+  name: "Chick peas"
+  altname: "Kabli Channa, Chole, White channa, Garbanzo Beans"
+  desc: "One of India's most popular and versatile pulses. In the west we only see it as the dried form that needs re-hydrating before use, or in tins. In India it is sold in its natural form, as bunches of twigs with the peas attached in their individual pea pods. You will see Indians walking along picking at these and eating the peas raw. They taste like fresh peas and are highly nutritious. In Karnataka the green peas are known as Shenga"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 58
+  name: "Bengal Gram"
+  altname: "Gram Kichererbsen, Chana dhal, Kala Chana, Kadala Parippu"
+  desc: "Although similar to the English yellow split pea, the authentic thing has a nuttier flavour and better texture. Can be cooked by itself or used in Dhal mixtures or added to meat dishes. If dry roasted, it is often used as a spice. Frying the dry pulse is also popular in the making of snack foods"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 59
+  name: "Hushed pigeon peas"
+  altname: "Toovar dhal, Toor dhal, Arhar dhal, Thuvara Parippu"
+  desc: "A dull yellow split pea with an earthy taste. Can be bought in an oily form which is actually castor oil and needs washing off before use"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 60
+  name: "Green gram"
+  altname: "Mung Beans, Moong, Mung, Cheru payar"
+  desc: "Small green skinned yellow split pea. The whole variety are also used by sprouting them\nfirst or used whole"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 61
+  name: "Mustard dhal"
+  altname: ""
+  desc: "The hulled and split brown mustard seed Used as a spice for pickles"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 62
+  name: "Red Chori Dhal"
+  altname: ""
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 63
+  name: "Red Kidney Beans"
+  altname: "Rajma"
+  desc: "As used in the ubiquitous Chilli con carne Popular in Punjabi cooking"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 64
+  name: "Red Lentils"
+  altname: "Masoor dhal"
+  desc: "The red lentils familiar to most British cooks Turns yellow when cooked"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 65
+  name: "Vall dhal"
+  altname: ""
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 66
+  name: "Dill"
+  altname: "Sooaa, Sua Saag"
+  desc: "Used to flavour spinach and other leaf vegetables"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 67
+  name: "Dried chillies"
+  altname: "Mirch"
+  desc: "These come in various shapes and sizes and are simply fresh chillies dried in the sun. Along with fresh chillies these form the most common heating agent in Indian food. They tend to be harsher and fierier than the fresh variety and thus impart a different type of heat flavour There are many from the bird or piri piri chillies which are tiny and very, very hot through to the Kashmiri which is used for its intense red colour rather than its heating properties. The Kashmiri (Deghi) is more likely to come from Karnataka than from Kashmir itself as the Kashmiris cannot produce enough for export. Other varieties include the Madras from Tamil Nadu, Guntar from Andhra Pradesh and Bedgi from Karnataka. Chillies (whether fresh or dried) can be deseeded if you want less fire."
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 68
+  name: "Drumstick"
+  altname: "Seeng, Sajjana, Muringakka, Sheenre Kifali"
+  desc: "A long thin beanlike gourd that looks like a drum stick! It is difficult to find good drumstick outside of India, although it is available. It must be used young and tender as it tends to go very stringy and tough with age. When buying make sure you can snap it without it being stringy"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 69
+  name: "Dry roasting or Dry Frying"
+  altname: ""
+  desc: "Whole spices are often roasted in a dry frying pan until they give off an aroma, before\nbeing allowed to cool slightly and then ground. This process releases the oils in the spices and heightens their flavour"
+  glsryOnly: 1
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:23:30"
+-
+  id: 70
+  name: "Duck"
+  altname: "Batak"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 71
+  name: "Dupiaza"
+  altname: "Double onions"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 72
+  name: "Eggs"
+  altname: "Anda"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 73
+  name: "Fennel seeds"
+  altname: "Soonf, Perinjeerakam"
+  desc: "Fennel seeds are light green in colour and have a very mild aniseed taste. They are used in vegetable and fish dishes. Also used raw in the end of meal Pan to freshen the breath"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 74
+  name: "Fenugreek"
+  altname: "Methi, Bhaji, Uluva"
+  desc: "Second only to Fresh Coriander, Methi is a lovely herb. It has a less pronounced flavour to the extent that it is often cooked as you would do spinach and served as a vegetable in its own right"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 75
+  name: "Fenugreek seeds"
+  altname: "Methi, Uluva"
+  desc: "Dark orange in colour, fenugreek is most often used in combinations. The aroma from them\nis what most people would call a curry smell"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 76
+  name: "Fish"
+  altname: "Macchi"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 77
+  name: "Wholemeal flour"
+  altname: "Atta, Chappatti, Gothambu Mavu"
+  desc: "A type of wholemeal wheat flour used to make Indian unleavened breads, chapatis and pooris. English Wholemeal flour can be used as a substitute if mixed half and half with plain flour"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 78
+  name: "Gram flour"
+  altname: "Besan, Kadala Mavu"
+  desc: "A very fine flour made from ground channa dal It should be sieved before use as it tends to form hard lumps during storage. Used to make batters for such things as pakoras, or for making Sev, the Indian form of crispy noodles found in snack foods"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 79
+  name: "Cornmeal"
+  altname: "Maize, Makki ka ata"
+  desc: "Use tortilla flour if you cannot find the Indian version"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 80
+  name: "Refined wheat flour"
+  altname: "Maida, American Mavu"
+  desc: "Western style plain white flour"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 81
+  name: "Rice flour"
+  altname: "Chawal ka atta, Sago, Sabudana, Chouari"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 82
+  name: "Semolina"
+  altname: "Sooji, Suji, Rava"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 83
+  name: "French beans"
+  altname: "Flas beans, Phalli"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 84
+  name: "Fresh chillies"
+  altname: "Hari Mirch"
+  desc: "Originally imported into India, they gradually replaced pepper as the main heating agent\nin Indian food. Chillies are grown natively in India now. In the UK the source will be from all over the world, Kenya for the medium sized fat ones you will find in the supermarkets, South America and India for other varieties. As a general rule, the smaller they are, the hotter they will be. You can get all sorts at your local Indian supermarket/store. Red chillies are simply green chillies that have fully ripened. Dried chillies are those that have been dried in the sun. Chillies have their aficionados. To spice up a plate of omelet and chips I use the Greek style chillies pickled in brine as a condiment. Yum yum. Those pickled in vinegar tend to be more intense. For optimum devastation try the piri piri (South African,) a small red perfectly formed chilli most often found pickled in brine or vinegar. Beware, chillies ARE habit forming having some chemical in them that is mildly narcotic. If you like a mild chilli today, chances are you'll easily be able to take a much more fiery one in a couple of years. This poses a problem when entertaining as what tastes reasonable to you may well knock your guest for six. As a rule, cut down the amount of chilli in the main dishes and serve some knockout side raitas\nand accompaniments to keep you happy."
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 85
+  name: "Fresh Garlic"
+  altname: "Lasan, Lusson"
+  desc: "Almost everyone knows about garlic these days. Often blamed years ago for odd smells, it\nhas now become so much a part of general English cooking that no one notices anymore. The sections of the bulb are known as cloves of garlic. Use as much as you feel comfortable with. To use, remove the skin from the clove, and chop or slice The finer you chop the stronger the flavour. Use a crusher for optimum strength. You can grow garlic in the garden very easily It's great planted amongst the roses as it is a greenfly deterrent. Like ginger, you can batch process it and freeze in ice cube trays. When frozen transfer the blocks to a freezer bag or box. When you defrost the garlic it may take on a greenish tinge. This is ok for cooking but you might use fresh cut for salads etc"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 86
+  name: "Fruit"
+  altname: "Phul"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 87
+  name: "Full fat milk powder"
+  altname: "Khoa"
+  desc: "Used in many Indian sweet recipes as a substitute for milk condensed by slow boiling.\nBaby milk formula is suitable, but skimmed milk powder is not"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 88
+  name: "Game"
+  altname: "Shikar"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 89
+  name: "Garlic Powder"
+  altname: ""
+  desc: "The dried and powdered form of fresh garlic. Mainly used for making masalas. Can be used\nin place of fresh garlic but I do not recommend this as it tends to have a drying effect in the sauce, accentuating any chilli heat"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 90
+  name: "Galangal"
+  altname: ""
+  desc: "(No English equivalent) A root similar to ginger If you cannot get it use ginger. Most\noften used in Far East cooking"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 91
+  name: "Gentlemens Toes"
+  altname: "Tindla, Tindli"
+  desc: "A small oval green vegetable that resembles a cucumber inside. Very nice par boiled and then fried in mustard seed, cummin seed and mango chutney. They are very tasty and worth looking out for. In appearance they are cucumber shaped, with a smooth green skin, ranging in size from about an inch in length anything up to the size of a man's thumb. To prepare, simply wash, top and tail and slice lengthways. When cooked with Okra you get the classic dish of\n'Ladies Fingers and Gentlemens Toes'; Pure Raj!"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 92
+  name: "Ghee"
+  altname: ""
+  desc: "A staple frying oil for Indian dishes, it is clarified butter. Ghee will heat to much higher temperatures than ordinary butter. To make your own Ghee, put 1/2 lb of unsalted butter into a bain marie and heat until oil separates from solids. Allow to cool slightly and pour off the oil into a sealable container, leaving the solids and water behind. Allow to solidify and store in fridge. It will keep several weeks. A vegetable ghee substitute is also available commercially which is a good substitute and will last in its container for many months without deterioration. Ghee is one of the essential flavours of restaurant food, with some establishments vying for a place in the record books for the amount of ghee they can put in a dish. If you wonder why this is, it is because most restaurants make their sauce bases in batches and ghee or oil is a good preservative. Hence by the time they have fried some spices and onions and added some base sauce, they will have a fair amount of oil in the dish. On health grounds you can use ordinary vegetable (or peanut) oil, but ghee (even the vegetable variety,) does add to the flavour of a dish. I would suggest that you use vegetable oil for ordinary use and make butter ghee for those special occasions"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-19 18:19:44"
+-
+  id: 93
+  name: "Ginger"
+  altname: "Adrak"
+  desc: "A beige coloured knobbly root, when peeled revealing a yellow fibrous body. The flavour is less harsh than powdered Ginger, having a lemony zing to it. If the skin is very thin, (ie ginger is fresh) just cut off the more obvious tough bits. Otherwise remove the skin of the root and then chop finely or slice depending on recipe. A good idea is to bung a whole load of ginger root into the food processor and chop it up. Then fill icecube trays with it and freeze. When frozen the cubes can be stored in the freezer in a freezer bag, giving you handy access to fresh ginger at any time"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 94
+  name: "Ginger Powder"
+  altname: "Sunt"
+  desc: "The dried root of fresh ginger Used mainly to make masalas (See Curry Powders)"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 95
+  name: "Gourd (Bottle)"
+  altname: "Dodhi"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 96
+  name: "Gourd (Snake)"
+  altname: "Chichinda"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 97
+  name: "Grapes"
+  altname: "Angoor"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 98
+  name: "Green Cardamom"
+  altname: "Chotta Elaichi, Elakka"
+  desc: "A dried fruit with very aromatic seeds. Very flavourful, imparting a sweet fragrance to any dish. Use as a balancing act to the more bitter spices Use whole or remove the husks and use the seeds inside"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 99
+  name: "Guava"
+  altname: "Amrud"
+  desc: "The skin of the guava fruit varies from yellow to purple and the flesh from pale green to pink. They are available fresh, or canned in syrup"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 100
+  name: "Gulabjamam"
+  altname: ""
+  desc: "Popular sweet in Indian restaurants, its the round steamed sponge balls in a syrup. If you have got an Asian sweet shop near you, then buy yours there"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 101
+  name: "Halva"
+  altname: ""
+  desc: "A sweet made by boiling sugar and fruit or vegetables"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 102
+  name: "Idli"
+  altname: ""
+  desc: "Steamed rice cake often served with a curry sauce for breakfast"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 103
+  name: "Jalfrezi"
+  altname: ""
+  desc: "A stir-fry with green peppers, onions and meat or chicken"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 104
+  name: "Karahi"
+  altname: ""
+  desc: "A round pan similar to a wok but with two handles"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 105
+  name: "Kebab"
+  altname: ""
+  desc: "Meat on a skewer"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 106
+  name: "Keema"
+  altname: ""
+  desc: "A spicy mince meat dish"
+  glsryOnly: 1
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:25:10"
+-
+  id: 107
+  name: "Kewra essence"
+  altname: ""
+  desc: "A light flowery extract of the screwpine plant Kewra water is also available which is a diluted version"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 108
+  name: "Kofta"
+  altname: "Meatballs"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 109
+  name: "Kokum"
+  altname: "Kodam Puli"
+  desc: "Semi-dried skin of a fruit grown along Indian coast. Used for its souring effect like tamarind. Store in airtight jar"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 110
+  name: "Korma"
+  altname: ""
+  desc: "A rich curry cream and yoghurt sauce based curry usually made with meat or chicken. Contrary to popular belief, not all kormas are mild, they just tend to be in UK restaurants.  I have had plenty of fiery kormas!"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 111
+  name: "Ice cream"
+  altname: "Kulfi"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 112
+  name: "Lamb"
+  altname: "Ber Gosht"
+  desc: "Meat, usually lamb, mutton or goat in India but can be beef. Indians use mutton rather than lamb and it is generally cooked and served on the bone which makes it easier to pick up"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-19 18:19:44"
+-
+  id: 113
+  name: "Lassi"
+  altname: ""
+  desc: "A sweet or savoury buttermilk based drink. Very popular in Indian vegetarian restaurants. See also Yoghurt"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 114
+  name: "Lemon"
+  altname: "Nimboo"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 115
+  name: "Lime"
+  altname: "Limboo"
+  desc: "Lime juice is known as Limboo ka rus in Hindi and when you mix the juice of two limes with cold soda water you get the excellent 'Fresh Lime Soda', which you can have plain, with jaggery syrup or with salt"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 116
+  name: "Liver"
+  altname: "Kaleji"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 117
+  name: "Lotus root"
+  altname: "Kamal Kakkadi Lobia, Thamara Valayam"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 118
+  name: "Lovage"
+  altname: "Ajwain, Ajowan, Carom"
+  desc: "These small seeds look like celery seeds but are more akin in taste to a strong thyme. A favorite ingredient in the Tarka topping for lentils. Lovage is also an old English herb garden plant"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:28:46"
+-
+  id: 120
+  name: "Macadamia nuts"
+  altname: "Buah Keras, Candlenuts, Kemiri"
+  desc: "A 'waxy' nut the size of a large hazelnut. When pounded, the nuts are used to thicken sauces"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 121
+  name: "Mace"
+  altname: "Javitri, Jathipathri"
+  desc: "Ground Mace Flower"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 122
+  name: "Mace Flower"
+  altname: "Javitri"
+  desc: "The flower of a Nutmeg shrub. Not unlike nutmeg but hotter. Often used in Pilau rice"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 123
+  name: "Mango"
+  altname: "Aam"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 124
+  name: "Mango powder"
+  altname: "Amchoor"
+  desc: "Sun dried green mangoes that is ground to make this brown dense powder. The powder is pleasantly tart. Pound in a mortar to break the lumps before use"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 125
+  name: "Masala"
+  altname: ""
+  desc: "A mix of spices."
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 126
+  name: "Meat"
+  altname: "Gosht"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 127
+  name: "Melon"
+  altname: "Kharbuja"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 128
+  name: "Melon seeds"
+  altname: "Chor Magaz"
+  desc: "Often ground and used as a thickener"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 129
+  name: "Milk"
+  altname: "Doodh"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 130
+  name: "Minced Meat"
+  altname: "Keema"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 131
+  name: "Mint, Phudina"
+  altname: "Podina, Odithalam"
+  desc: "Most often the dried form is used when making masalas but fresh can be used when making salads or kebabs"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 132
+  name: "Mooli"
+  altname: "White Radish"
+  desc: "The large white form of radish. Can be grated finely as salad, but more often cooked in a curry"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 133
+  name: "Mushroom"
+  altname: "Goochi, Dingri"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 134
+  name: "Mustard Leaves"
+  altname: "Sarson ka sag"
+  desc: "Leaves from the mustard plant, spinach like"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 135
+  name: "Mustard Oil"
+  altname: "Til"
+  desc: "The oil from mustard seeds, most often used in Bengali and Kasmiri cooking and for oil based pickles"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 136
+  name: "Mutton"
+  altname: "Bakri ka gosht"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 137
+  name: "Naan"
+  altname: ""
+  desc: "Teardrop-shaped leavened bread cooked in a tandoor. Can now be bought in most supermarkets. I suggest spreading a little Ghee over the naan and sprinkling with cummin seeds or lovage seeds before putting in the oven to heat. This helps to prevent them going crispy. Peshwari Naan is stuffed with nuts and dried fruit. Keema Naan is stuffed with minced meat."
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:28:20"
+-
+  id: 138
+  name: "Noodles"
+  altname: "Sev"
+  desc: "Made from Besan flour Indian noodles are fried, not boiled like European or Far east noodles. Most often they are used in snacks such as the ubiquitous Bombay Mix"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 139
+  name: "Nutmeg"
+  altname: "Fatal, Jaiphul, Jathikka"
+  desc: "Is the very hard, aromatic seed of a tree. Buy whole nutmeg and grate as required"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 140
+  name: "Okra"
+  altname: "Ladies Fingers, Bindi"
+  desc: "A popular vegetable with a sticky interior. In the curry house this is inevitably cooked to death and is probably best left alone. If you do your own try one of the dry fry recipes or a par-boil and fry recipe to keep the vegetable crisp"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 141
+  name: "Olive oil"
+  altname: "Jaithan ka tel"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 142
+  name: "Onion"
+  altname: "Piaz"
+  desc: "Red onions for salads, white for cooking. A major component of most curries so never, ever be without them"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 143
+  name: "Onion seed"
+  altname: "Kalonji"
+  desc: "Small black tearshaped onion seeds; used to add piquancy to vegetable curries and Indian breads"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 144
+  name: "Onions, crisp deep-fried"
+  altname: ""
+  desc: "Used as an accompaniment or garnish to many dishes. Finely slice some onions. Separate the slices and deep-fry in hot oil until deep golden brown Drain well on paper towels. The dried onion can be stored in an airtight container in the fridge for a couple of weeks. A quick and versatile alternative is to quickly fry dried onions"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 145
+  name: "Oyster"
+  altname: "Kaloo"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 146
+  name: "Pan"
+  altname: ""
+  desc: "A mixture of spices, tobacco and almost anything else that the Pan Maker can think of that is wrapped in a leaf and eaten as the final part of a meal. It is a mild narcotic as it contains Betel"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 147
+  name: "Peas"
+  altname: "Mattar, Mutter"
+  desc: "Hence the popular Muttar Paneer dish, Peas and Cheese"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 148
+  name: "Pakoras"
+  altname: ""
+  desc: "Deep fried battered mixtures of meat or vegetables. Also known as Bharjia or Bargee"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 149
+  name: "Palm sugar"
+  altname: "Jaggery, Goor, Gur, Sharkara"
+  desc: "Sold in lump form, this is the most common form of sugar used in Indian cookery, having a light pleasant flavour. Substitute grain palm sugar or light demerara if necessary"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 150
+  name: "Paneer"
+  altname: "Homemade Cheese"
+  desc: "In a large pan, pour in 2-4 pints of full fat milk. Bring to the boil and switch off heat. Add juice of a lemon and stir. The milk should separate into curds and whey, Allow to separate for a few minutes. Now drain out the whey via colander lined with muslin. You can throw the whey away or use it as a cooking stock. For making chhana, collect the four corners of the muslin and hang up the curds to drain thoroughly over night. For Paneer, squeeze the curds to release as much of the whey as possible. Wrap up the curds and put them on a board (chopping board), making a flat (about 1 inch or 25 cm) cake of them. Fill a large pan with water and place on top of the curds and leave for one hour. By this time the curds will have formed a solid mass of cheese. This can be cut into cubes and used in your recipe. It is now possible to buy Paneer in some supermarkets"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 151
+  name: "Papaya"
+  altname: "Papita"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 152
+  name: "Paprika"
+  altname: ""
+  desc: "Ground powder of a type of pepper. Used most often for its colouring ability rather than its flavour"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 153
+  name: "Paratha"
+  altname: ""
+  desc: "Deep fried bread. The paratha we get here in England is usually very different to the variety found in India where they tend to be softer, probably because they are cooked fresh to order rather than re-heated.  Do look out for the frozen varieties in the Indian shop though.  They can cooked as directed or put into a hot oven to puff up to make a delicious pastry for breakfast"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 154
+  name: "Peanut"
+  altname: "Moongphulli"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 155
+  name: "Pear"
+  altname: "Jamphul"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 156
+  name: "Pepper (Black)"
+  altname: " Kali Mirchi, Kali mirch sabat"
+  desc: "Almost exclusively you will want the whole black peppercorn, widely available in supermarkets. At one time pepper was the main heating agent for Indian cookery, but has now been largely replaced by the chilli. There are some great recipes however that call for pepper in goodly amounts and the difference is outstanding. Used whole or ground"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:26:32"
+-
+  id: 157
+  name: "Pickle"
+  altname: "Achar"
+  desc: "Pickles are used extensively as accompaniments to the main dish. These can be bought or made"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 158
+  name: "Pineapple"
+  altname: "Anaras"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 159
+  name: "Pistachio nut"
+  altname: "Pista magaz"
+  desc: "Often used as a thickener and flavour enhancer in meat dishes"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 160
+  name: "Plantains"
+  altname: "Green Bananas"
+  desc: "Can only be eaten cooked, either fried or boiled. A popular roadside snack in India is fried plantain crisps"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 161
+  name: "Pomegranite seeds"
+  altname: "Anardana"
+  desc: "Another souring spice most often used in Punjabi cooking"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 162
+  name: "Pomfret"
+  altname: "Chamna"
+  desc: "Very popular and tasty oval shaped silver fish that can come in many sizes.  You can often get these from larger Indian stores in the UK in the freezer counter"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 163
+  name: "Poppadom"
+  altname: "Papad"
+  desc: "Crispy lentil flour pancake. Often flavoured. These are usually cooked in hot oil but can be microwaved (try 30 secs to start). Do not bother trying to make your own, buy them"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 164
+  name: "Poppy"
+  altname: "Khus khus, Khas Khas, Kusa Kusa"
+  desc: "Only the white variety are used, mainly to thicken sauces. Please note: do not buy this in India if you are travelling through the middle east (eg Bahrain, Dubai) as it is a banned substance there"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 165
+  name: "Pork"
+  altname: "Suar ka gosht"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 166
+  name: "Potato"
+  altname: "Aloo, Alu"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 167
+  name: "Prawns"
+  altname: "Jingha, Via"
+  desc: "In the UK it is only possible to get small prawns. The biggest available are usually the Tiger prawn. Even that might be considered a shrimp by Indian standards. I have eaten prawns so big that you only get 6 to a kilo! Buy as big as you can afford. Buy them fresh if you can. Buy frozen if not. Most recipes assume fresh uncooked prawns. If you use frozen (cooked) ones, simply delay their introduction until the end of a recipe. Frozen prawns must be defrosted first and drained of the ice water. They then simply need warming through in the food. If you overcook them by even a little, they will shrink, become tough and waste the money you just laid out on them"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 168
+  name: "Pumpkin (Ash)"
+  altname: "Mettai Petta, Bhopla, Kumblanga"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 169
+  name: "Pumkin (Red)"
+  altname: "Lal Kaddu, Mathanga"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 170
+  name: "Pumkin (White)"
+  altname: "Louki, Petha, Chorakka"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 171
+  name: "Puri"
+  altname: ""
+  desc: "A deep-fried unleavened bread"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 172
+  name: "Radish"
+  altname: "Moolee"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 173
+  name: "Raisins"
+  altname: "Kishmish"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 174
+  name: "Raita"
+  altname: ""
+  desc: "A chutney of yoghurt and vegetables. Usually this a cooling dish but can be spicy hot"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 175
+  name: "Rice (raw)"
+  altname: "Arva Chawal, Pacha Ari"
+  desc: "There are dozens of varieties of rice available, even in the UK. For general cooking use long grained patna or whatever you normally use. Try different varieties of rice, they all have a different flavour. Plain boiled rice is a popular accompaniment to most dishes, so its worth shopping around for the rice you like the flavour of. On special occasions or when cooking Biriani use Basmati rice"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 176
+  name: "Rice (parboiled)"
+  altname: "Usna Chawal, Pazukal Ari"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 177
+  name: "Rose essence"
+  altname: "Ruh Gulab"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 178
+  name: "Rose petals"
+  altname: "Gulab"
+  desc: "Powdered rose petals are used as a light fragrant flavouring for many rice dishes"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 179
+  name: "Roti"
+  altname: ""
+  desc: "A form of Bread. In some parts Roti just means Bread"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 180
+  name: "Saffron"
+  altname: "Kesar, Kumkumapuva"
+  desc: "The stigma of a flower in the crocus family, saffron is the most expensive spice in the world. Buy it in small packs as it loses its flavour within a month of opening. Soak in hot milk for 5 minutes to impart the distinctive and fine flavour and aroma"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 181
+  name: "Salmon (Indian)"
+  altname: "Rawas"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 182
+  name: "Salt"
+  altname: "Namak"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 183
+  name: "Sambals"
+  altname: ""
+  desc: "Side dish accompaniments"
+  glsryOnly: 1
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:27:12"
+-
+  id: 184
+  name: "Sesame"
+  altname: "Til"
+  desc: "Used as seeds to add flavour and texture. As with most seeds, dry-frying will bring out the flavour"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 185
+  name: "Sesame seed oil"
+  altname: "Gingelly, Til"
+  desc: "Is used for its flavour rather than for frying, as it burns very easily,"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 186
+  name: "Spinach"
+  altname: "Sag, Palak"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 187
+  name: "Star anise"
+  altname: "Badian, Chakraphool"
+  desc: "This start shaped spice is more often found in oriental cookery than Indian but it still has its place giving a strong aniseed flavour. Often used whole in Pilau rice. A pod is one petal of the star anise flower"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 188
+  name: "Stock"
+  altname: "Yakhni"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 189
+  name: "Sugar"
+  altname: "Chini"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 190
+  name: "Sultanas"
+  altname: "Kish mish"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 191
+  name: "Sweet potato"
+  altname: "Shakarkundi"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 192
+  name: "Tamarind"
+  altname: "Imli, Puli"
+  desc: "A fruit resembling a bean pod Tamarind is used for its cooling effect and has acidic and souring qualities. It is sold dried, pulped or pureed. Buy the pulp or puree for preference and store it in the fridge where it will keep for very long periods. To use, put a teaspoon full into half a cup of hot water to soften and then use the liquid"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 193
+  name: "Tandoori"
+  altname: ""
+  desc: "Meat marinated in yoghurt and spices and cooked in a tandoor. The tandoor is a clay oven traditionally heated by coals but the modern restaurant version is fired by gas. Tandoori is usually meat on the bone whereas Tikka is meat off the bone"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 194
+  name: "Tarka"
+  altname: ""
+  desc: "The name given to the final frying of spices that are then poured over the main dish. Make sure that you have the ingredients to hand. The oil must be very hot before adding the spices which cook very quickly, imparting their flavour to the oil. The oil and spices are then poured over the target dish"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 195
+  name: "Tea"
+  altname: "Chai"
+  desc: "Over most of India, tea is served after boiling for a long time with milk. To English taste who prefer black tea with a splash of milk, it is awful stuff. Always as for 'Pot Tea' or 'Black Tea' to get the UK style of tea"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 196
+  name: "Thali"
+  altname: ""
+  desc: "A style of serving food more often found in Southern India. A metal tray with several small containers is placed on the table In the middle of the tray is plain rice. The containers have small quantities of different curries and accompaniments. These are mixed with the rice to form the meal. In the cheapest restaurants, the tray is replaced by a banana leaf. The savoury and sweet courses are all served together, it being up to the eater as to which order he mixes them with the rice. In southern India, the thali is usually vegetarian with more meat ones appearing as you move north. The thali or 'Meals' restaurants are the lowest order of restaurant in India, serving the working and travelling masses. Because they get through so much food, being incredibly cheap, you can usually be assured of a decent filling meal however as they work on an eat as much as you can basis. Thalis are designed to be eaten with the fingers (as is much of South Indian food,) and this perhaps explains their lack of profile in the UK"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-19 18:19:44"
+-
+  id: 197
+  name: "Tomatoes"
+  altname: "Tamatar"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 198
+  name: "Turmeric"
+  altname: "Haldi"
+  desc: "Powdered Turmeric plant root The root form is available in India but in the UK we generally buy already ground. Bright yellow in colour, it is one of the staple spices of Indian cookery. Used to colour and flavour. Simple boiled rice can enhanced by a half teaspoon of Turmeric added with salt as the water is coming up to boil"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 199
+  name: "Turnip"
+  altname: "Shalgam"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 200
+  name: "Varak,"
+  altname: ""
+  desc: "Silver leaf, known as varak, is used as a decoration for both sweet and savoury dishes. It is safe to eat, but aluminium foil should not be used as a substitute!\""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:27:40"
+-
+  id: 201
+  name: "Vegetables"
+  altname: "Tarkari"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 202
+  name: "Walnut"
+  altname: "Akhrot"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 203
+  name: "Water"
+  altname: "Pani"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 204
+  name: "Wheat"
+  altname: "Gehun"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 205
+  name: "Wine"
+  altname: "Sharab"
+  desc: ""
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 206
+  name: "White Cumin"
+  altname: "Jeera, Jeerakkam"
+  desc: "A staple of Indian spicing you can buy it in seed and powder form"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 207
+  name: "White Radish"
+  altname: "Mooli"
+  desc: "Useful in salads and vegetable curries"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-17 22:20:10"
+-
+  id: 208
+  name: "Yoghurt"
+  altname: "Curd, Dahi"
+  desc: "Use full fat organic yoghurt for flavour and texture. Do not use low fat stuff, its useless, having no flavour and totally inadequate for its job which is to act as a cooling agent, either as a side dish in a raita or in the sauce itself. Lassi is made from Buttermilk or Yoghurt and crushed ice with either salt or sugar added. Simply put ice into liqidizer, add yoghurt, salt or sugar and whiz. Perfect with a hot curry"
+  glsryOnly: 0
+  rowSts: "active"
+  rowUid: 0
+  rowDt: "2011-06-19 18:19:44"
+...

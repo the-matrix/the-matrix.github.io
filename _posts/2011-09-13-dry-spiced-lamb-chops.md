@@ -9,6 +9,8 @@ image:
   feature: the-matrix-slim.jpg
 date: 2011-09-13T04:56:03+00:00
 comments: true
+redirect_from: 
+  - /bbcb/recipe/Dry+Spiced+Lamb+Chops.html
 ---
 
 <figure>

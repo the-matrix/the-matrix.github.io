@@ -9,6 +9,8 @@ image:
   feature: the-matrix-slim.jpg
 date: 2011-10-09T20:15:34+00:00
 comments: true
+redirect_from: 
+  - /bbcb/recipe/Meen+Curry++Keralan+Fish+Curry.html
 ---
 
 <figure>

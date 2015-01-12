@@ -9,6 +9,8 @@ image:
   feature: the-matrix-slim.jpg
 date: 2011-09-13T14:29:14+00:00
 comments: true
+redirect_from: 
+  - /bbcb/recipe/Naryal+Farcha+Coconut+Chicken+'NickNick'.html
 ---
 
 <figure>

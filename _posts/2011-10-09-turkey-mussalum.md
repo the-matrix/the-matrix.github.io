@@ -10,6 +10,8 @@ image:
   feature: the-matrix-slim.jpg
 date: 2011-10-09T19:26:12+00:00
 comments: true
+redirect_from: 
+  - /bbcb/recipe/Turkey+Mussalum.html
 ---
 
 <figure>

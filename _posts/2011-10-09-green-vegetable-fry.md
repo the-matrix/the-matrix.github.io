@@ -9,6 +9,8 @@ image:
   feature: the-matrix-slim.jpg
 date: 2011-10-09T19:00:04+00:00
 comments: true
+redirect_from: 
+  - /bbcb/recipe/Green+Vegetable+Fry.html
 ---
 
 <figure>

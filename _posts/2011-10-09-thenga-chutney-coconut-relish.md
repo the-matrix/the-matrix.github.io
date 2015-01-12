@@ -9,6 +9,8 @@ image:
   feature: the-matrix-slim.jpg
 date: 2011-10-09T20:52:26+00:00
 comments: true
+redirect_from: 
+  - /bbcb/recipe/Thenga+Chutney+Coconut+Relish.html
 ---
 
 <figure>

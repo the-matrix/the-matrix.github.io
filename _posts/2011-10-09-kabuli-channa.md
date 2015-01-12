@@ -9,6 +9,8 @@ image:
   feature: the-matrix-slim.jpg
 date: 2011-10-09T18:53:02+00:00
 comments: true
+redirect_from: 
+  - /bbcb/recipe/Kabuli+Channa.html
 ---
 
 <figure>

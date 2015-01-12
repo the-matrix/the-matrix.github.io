@@ -9,6 +9,8 @@ image:
   feature: the-matrix-slim.jpg
 date: 2011-10-09T21:46:35+00:00
 comments: true
+redirect_from: 
+  - /bbcb/recipe/Pepper+Steak.html
 ---
 
 <figure>

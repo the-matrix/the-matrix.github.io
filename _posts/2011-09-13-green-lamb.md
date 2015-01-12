@@ -9,6 +9,8 @@ image:
   feature: the-matrix-slim.jpg
 date: 2011-09-13T04:54:39+00:00
 comments: true
+redirect_from: 
+  - /bbcb/recipe/Green+Lamb.html
 ---
 
 <figure>

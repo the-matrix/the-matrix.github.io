@@ -9,6 +9,8 @@ image:
   feature: the-matrix-slim.jpg
 date: 2011-10-07T13:59:16+00:00
 comments: true
+redirect_from: 
+  - /bbcb/recipe/Stir+Fry+Vegetables+Goan+Style.html
 ---
 
 <figure>

@@ -9,6 +9,8 @@ image:
   feature: the-matrix-slim.jpg
 date: 2011-10-11T07:40:06+00:00
 comments: true
+redirect_from: 
+  - /bbcb/recipe/Tarka+Dhal.html
 ---
 
 <figure>

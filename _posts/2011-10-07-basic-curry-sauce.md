@@ -9,6 +9,8 @@ image:
   feature: the-matrix-slim.jpg
 date: 2011-10-07T13:40:57+00:00
 comments: true
+redirect_from: 
+  - /bbcb/recipe/Basic+Curry+Sauce.html
 ---
 
 <figure>

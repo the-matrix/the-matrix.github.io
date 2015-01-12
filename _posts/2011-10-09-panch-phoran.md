@@ -9,6 +9,8 @@ image:
   feature: the-matrix-slim.jpg
 date: 2011-10-09T21:02:28+00:00
 comments: true
+redirect_from: 
+  - /bbcb/recipe/Panch+Phoran.html
 ---
 
 <figure>

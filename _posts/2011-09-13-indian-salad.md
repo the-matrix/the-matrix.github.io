@@ -9,6 +9,8 @@ image:
   feature: the-matrix-slim.jpg
 date: 2011-09-13T13:19:54+00:00
 comments: true
+redirect_from: 
+  - /bbcb/recipe/Indian+Salad.html
 ---
 
 <figure>

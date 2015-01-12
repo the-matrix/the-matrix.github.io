@@ -9,6 +9,8 @@ image:
   feature: the-matrix-slim.jpg
 date: 2011-10-09T20:56:29+00:00
 comments: true
+redirect_from: 
+  - /bbcb/recipe/Sambar+Masala+.html
 ---
 
 <figure>

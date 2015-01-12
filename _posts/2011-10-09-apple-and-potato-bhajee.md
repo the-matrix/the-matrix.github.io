@@ -9,6 +9,8 @@ image:
   feature: the-matrix-slim.jpg
 date: 2011-10-09T18:37:56+00:00
 comments: true
+redirect_from: 
+  - /bbcb/recipe/Apple+And+Potato+Bhajee.html
 ---
 
 <figure>

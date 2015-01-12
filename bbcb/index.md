@@ -5,6 +5,8 @@ excerpt: "Big Boys Curry Book reborn"
 tags: ["bbcb", "curry", "india"]
 modified: 2015-01-08T08:29:07.573882-04:00
 comments: false
+redirect_from: 
+  - /bbcb.html
 image:
   feature: the-matrix-slim.jpg
 ---

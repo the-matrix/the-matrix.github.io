@@ -23,7 +23,8 @@ This is a South Indian chutney and is best made a few hours before needed.
         
 ## Ingredients
         
-<p><em>Relish</em></p><ul><li>50g fresh ginger, chopped fine</li><li>2 tbsp. desiccated coconut</li><li>2 green chillies, chopped fine</li><li>Salt to taste</li><li>1 tsp. sugar</li><li>150g natural yoghurt</li></ul><p><em>Tarka</em></p><ul><li>2 tbsp. oil</li><li>6 curry leaves</li><li>3/4 tsp. mustard seed</li><li>2 dry red chillies</li></ul>
+<p><em>Relish</em></p><ul><li>50g fresh ginger, chopped fine</li><li>2 tbsp. desiccated coconut</li><li>2 green chillies, chopped fine</li><li>Salt to taste</li><li>1 tsp. sugar</li><li>150g natural yoghurt</li></ul>
+<p><em>Tarka</em></p><ul><li>2 tbsp. oil</li><li>6 curry leaves</li><li>3/4 tsp. mustard seed</li><li>2 dry red chillies</li></ul>
         
 ## Method
 

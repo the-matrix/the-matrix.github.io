@@ -18,14 +18,30 @@ redirect_from:
 	<figcaption>A temple elephant garbed for a wedding in Kochi </figcaption>
 </figure>
 
-One of the simplest of dishes, the sweet cumin taste perfectly accompanies the new potatoes. This dish does not need another curry dish, it is perfectly at home with the Sunday roast or some grilled lamb chops. It is not a hot dish, so you can add a little chilli powder if you wish but not too much as it will spoil.
+One of the simplest of dishes, the sweet cumin taste perfectly accompanies the 
+new potatoes. This dish does not need another curry dish, it is perfectly at 
+home with the Sunday roast or some grilled lamb chops. It is not a hot dish, so 
+you can add a little chilli powder if you wish but not too much as it will spoil.
         
 ## Ingredients
         
-<ul><li>1lb new potatoes, washed (not peeled) and boiled in salted water and 1/2  tspn turmeric.</li><li>2 tbsp butter</li><li>1 tbsp seed</li><li>1/2 tbsp fresh coriander or parsley, chopped</li><li>1/4 tspn chilli maximum</li></ul>
+<ul>
+    <li>1lb new potatoes, washed (not peeled) and boiled in salted water and 1/2  tspn turmeric.</li>
+    <li>2 tbsp butter</li>
+    <li>1 tbsp cummin seed</li>
+    <li>1/2 tbsp fresh coriander or parsley, chopped</li>
+    <li>1/4 tspn chilli maximum</li>
+</ul>
         
 ## Method
 
-<ol><li>Heat the butter gently in a pan until clear</li><li>Add cumin seed and saute gently for 2 minutes</li><li>Add potatoes, put lid on and shake pan. (If using chilli powder add it now.) Return to  heat and saute gently until skins start to turn colour. Do not burn them and try to avoid  breaking the potatoes.</li><li>Remove from heat, put into serving dish and garnish with coriander or parsley</li></ol>   
+<ol>
+    <li>Heat the butter gently in a pan until clear</li>
+    <li>Add cumin seed and saute gently for 2 minutes</li>
+    <li>Add potatoes, put lid on and shake pan. (If using chilli powder add it now.) 
+    Return to  heat and saute gently until skins start to turn colour. Do not 
+    burn them and try to avoid  breaking the potatoes.</li>
+    <li>Remove from heat, put into serving dish and garnish with coriander or parsley</li>
+</ol>   
 
 <a href="/bbcb">Back to recipe index</a>      

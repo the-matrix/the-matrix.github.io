@@ -18,7 +18,12 @@ redirect_from:
 	<figcaption>Our cook whilst in the jungle prepares everything over an open fire</figcaption>
 </figure>
 
-I found this recipe from a book I bought at the <a href="http://cafespice.co.uk/" title="Cafe Spice - London" target="_blank">Cafe Spice</a> restaurant in London. The restaurant is one of my favourites and the book, 'Cafe Spice Namaste' by Cyrus Todiwala</a>, the restaurant's founding chef is worth looking out for interesting Nouvelle Indian dishes. This one is certainly different and very refreshing with a rich meat dish such as Champ Masala, Spicy Lamb Chops.
+I found this recipe from a book I bought at the <a href="http://cafespice.co.uk/" title="Cafe Spice - London" target="_blank">Cafe Spice</a> 
+restaurant in London. The restaurant is one of my favourites and the book, 
+'Cafe Spice Namaste' by <a href="http://cafespice.co.uk/watch-cyrus-in-action/youtube/" title="Cyrus talks" target="_blank">Cyrus Todiwala</a>, 
+the restaurant's founding chef is worth looking out for interesting Nouvelle 
+Indian dishes. This one is certainly different and very refreshing with a rich 
+meat dish such as Champ Masala.
         
 ## Ingredients
         
@@ -26,6 +31,15 @@ I found this recipe from a book I bought at the <a href="http://cafespice.co.uk/
         
 ## Method
 
-<ol><li><p>Heat oil until hot and fry fenugreek seed for 10 seconds.</li><li>Add mustard and fry til crackling.</li><li>Add cumin and coriander seed and saute gently for about 1.5 minutes. Do not burn.</li><li>Add chillies and saute for 1 minute.</li><li>Add spring onions and saute for 2 minutes.</li><li>Add potato and apple and toss until mixed then add tomato. Cook 2-3 minutes tossing gently occasionally.</li><li>Add beans and mix.</li><li>When apple has softened slightly add suger, lemon and salt to taste. Sprinkle corander, toss and serve immediately.</li></ol>   
+<ol>
+    <li>Heat oil until hot and fry fenugreek seed for 10 seconds.</li>
+    <li>Add mustard and fry til crackling.</li>
+    <li>Add cumin and coriander seed and saute gently for about 1.5 minutes. Do not burn.</li>
+    <li>Add chillies and saute for 1 minute.</li>
+    <li>Add spring onions and saute for 2 minutes.</li>
+    <li>Add potato and apple and toss until mixed then add tomato. Cook 2-3 minutes tossing gently occasionally.</li>
+    <li>Add beans and mix.</li>
+    <li>When apple has softened slightly add suger, lemon and salt to taste. Sprinkle corander, toss and serve immediately.</li>
+</ol>   
 
 <a href="/bbcb">Back to recipe index</a>      

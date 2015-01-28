@@ -38,7 +38,7 @@ make the mix.
     <li>8 Mango powder</li>
     <li>8 Paprika</li>
     <li>8 Turmeric</li>
-    <li>8 Garam Masala - Hot Spice blend</li>
+    <li>8 <a href="/big-boys-curry-book/garam-masala--hot-spice-blend/">Garam Masala</a></li>
     <li>1 Cloves</li>
     <li>2 Curry leaves (dry)</li>
     <li>2 Asafoetida</li>

@@ -121,6 +121,20 @@ image:
     </dd>
 </dl>
 
+### Service Data Objects
+
+<dl>
+    <dt>SDO Pattern</dt>
+    <dd>Service Data Objects made simple
+        <dl>
+            <dt>Github</dt>
+            <dd><a href="https://github.com/chippyash/SDO-Pattern">https://github.com/chippyash/SDO-Pattern</a></dd>
+            <dt>Packagist</dt>
+            <dd><a href="https://packagist.org/packages/chippyash/sdo-pattern">https://packagist.org/packages/chippyash/sdo-pattern</a></dd>
+        </dl>
+    </dd>
+</dl>
+
 ### Other stuff
 
 <dl>

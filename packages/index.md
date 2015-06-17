@@ -47,6 +47,16 @@ image:
             <dd><a href="https://packagist.org/packages/chippyash/math-type-calculator">https://packagist.org/packages/chippyash/math-type-calculator</a></dd>
         </dl>
     </dd>
+    
+    <dt>Currency</dt>
+    <dd>Locale aware currency support based on strong types
+        <dl>
+            <dt>Github</dt>
+            <dd><a href="https://github.com/chippyash/Currency">https://github.com/chippyash/Currency</a></dd>
+            <dt>Packagist</dt>
+            <dd><a href="https://packagist.org/packages/chippyash/currency">https://packagist.org/packages/chippyash/currency</a></dd>
+        </dl>
+    </dd>
 </dl>
 
 ### Matrices
@@ -131,6 +141,43 @@ image:
             <dd><a href="https://github.com/chippyash/SDO-Pattern">https://github.com/chippyash/SDO-Pattern</a></dd>
             <dt>Packagist</dt>
             <dd><a href="https://packagist.org/packages/chippyash/sdo-pattern">https://packagist.org/packages/chippyash/sdo-pattern</a></dd>
+        </dl>
+    </dd>
+</dl>
+
+### Functional Programming
+
+<dl>
+    <dt>Monads</dt>
+    <dd>Monadic types for PHP
+        <dl>
+            <dt>Github</dt>
+            <dd><a href="https://github.com/chippyash/Monad">https://github.com/chippyash/Monad</a></dd>
+            <dt>Packagist</dt>
+            <dd><a href="https://packagist.org/packages/chippyash/monad">https://packagist.org/packages/chippyash/monad</a></dd>
+        </dl>
+    </dd>
+</dl>
+
+### Accountancy
+
+<dl>
+    <dt>Currency</dt>
+    <dd>Locale aware currency support based on strong types
+        <dl>
+            <dt>Github</dt>
+            <dd><a href="https://github.com/chippyash/Currency">https://github.com/chippyash/Currency</a></dd>
+            <dt>Packagist</dt>
+            <dd><a href="https://packagist.org/packages/chippyash/currency">https://packagist.org/packages/chippyash/currency</a></dd>
+        </dl>
+    </dd>
+    <dt>Simple Accounts</dt>
+    <dd>Simple Double Entry Accounting
+        <dl>
+            <dt>Github</dt>
+            <dd><a href="https://github.com/chippyash/Simple-Accounts">https://github.com/chippyash/Simple-Accounts</a></dd>
+            <dt>Packagist</dt>
+            <dd><a href="https://packagist.org/packages/chippyash/simple-accounts">https://packagist.org/packages/chippyash/simple-accounts</a></dd>
         </dl>
     </dd>
 </dl>

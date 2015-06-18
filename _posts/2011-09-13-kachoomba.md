@@ -11,6 +11,7 @@ date: 2011-09-13T12:52:32+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Kachoomba.html
+  - /bbcbrecipe/Kachoomba.html
 ---
 
 <figure>

@@ -11,6 +11,7 @@ date: 2011-10-09T16:52:57+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Dhaniya+Keema+Minced+Lamb.html
+  - /bbcbrecipe/Dhaniya+Keema+Minced+Lamb.html
 ---
 
 <figure>

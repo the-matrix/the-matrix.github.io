@@ -11,6 +11,7 @@ date: 2011-10-07T01:59:36+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Fish+Molee.html
+  - /bbcbrecipe/Fish+Molee.html
 ---
 
 <figure>

@@ -11,6 +11,7 @@ date: 2011-09-13T03:59:05+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Recheade+Masala+Goan+Spice+Paste.html
+  - /bbcbrecipe/Recheade+Masala+Goan+Spice+Paste.html
 ---
 
 <figure>

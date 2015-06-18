@@ -11,6 +11,7 @@ date: 2011-10-09T20:06:00+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Perfect+boiled+rice.html
+  - /bbcbrecipe/Perfect+boiled+rice.html
 ---
 
 <figure>

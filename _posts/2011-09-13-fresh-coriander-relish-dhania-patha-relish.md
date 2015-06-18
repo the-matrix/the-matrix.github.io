@@ -11,6 +11,7 @@ date: 2011-09-13T05:15:52+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Fresh+Coriander+Relish+Dhania+Patha+Relish.html
+  - /bbcbrecipe/Fresh+Coriander+Relish+Dhania+Patha+Relish.html
 ---
 
 <figure>

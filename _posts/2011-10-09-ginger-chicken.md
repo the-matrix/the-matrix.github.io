@@ -11,6 +11,7 @@ date: 2011-10-09T16:56:28+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Ginger+Chicken.html
+  - /bbcbrecipe/Ginger+Chicken.html
 ---
 
 <figure>

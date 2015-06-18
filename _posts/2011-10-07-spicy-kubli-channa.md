@@ -11,6 +11,7 @@ date: 2011-10-07T13:57:43+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Spicy+Kubli+Channa.html
+  - /bbcbrecipe/Spicy+Kubli+Channa.html
 ---
 
 <figure>

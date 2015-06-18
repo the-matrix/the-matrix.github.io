@@ -11,6 +11,7 @@ date: 2011-10-09T16:49:27+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Champ+Masala+Spicy+Lamb+Chops.html
+  - /bbcbrecipe/Champ+Masala+Spicy+Lamb+Chops.html
 ---
 
 <figure>

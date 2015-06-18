@@ -11,6 +11,7 @@ date: 2011-09-13T05:16:12+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Phudina+Relish+Fresh+Mint+Relish.html
+  - /bbcbrecipe/Phudina+Relish+Fresh+Mint+Relish.html
 ---
 
 <figure>

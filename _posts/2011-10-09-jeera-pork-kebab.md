@@ -11,6 +11,7 @@ date: 2011-10-09T16:43:57+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Jeera+Pork+Kebab.html
+  - /bbcbrecipe/Jeera+Pork+Kebab.html
 ---
 
 <figure>

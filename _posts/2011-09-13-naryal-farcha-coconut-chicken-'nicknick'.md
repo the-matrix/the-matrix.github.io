@@ -11,6 +11,7 @@ date: 2011-09-13T14:29:14+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Naryal+Farcha+Coconut+Chicken+'NickNick'.html
+  - /bbcbrecipe/Naryal+Farcha+Coconut+Chicken+'NickNick'.html
 ---
 
 <figure>

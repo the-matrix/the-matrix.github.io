@@ -11,6 +11,7 @@ date: 2011-10-09T20:14:15+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Konkani+Mussels.html
+  - /bbcbrecipe/Konkani+Mussels.html
 ---
 
 <figure>

@@ -11,6 +11,7 @@ date: 2011-09-13T12:54:31+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Phudina+Dahi+Mint+Dip.html
+  - /bbcbrecipe/Phudina+Dahi+Mint+Dip.html
 ---
 
 <figure>

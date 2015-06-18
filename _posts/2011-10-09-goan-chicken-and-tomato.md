@@ -11,6 +11,7 @@ date: 2011-10-09T19:23:27+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Goan+Chicken+And+Tomato.html
+  - /bbcbrecipe/Goan+Chicken+And+Tomato.html
 ---
 
 <figure>

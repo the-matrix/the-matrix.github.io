@@ -11,6 +11,7 @@ date: 2011-09-13T05:14:43+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Alle+Chutney+Ginger+Chutney.html
+  - /bbcbrecipe/Alle+Chutney+Ginger+Chutney.html
 ---
 
 <figure>

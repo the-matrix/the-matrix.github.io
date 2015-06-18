@@ -11,6 +11,7 @@ date: 2011-09-13T13:14:30+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Potato+Chilli+Fry.html
+  - /bbcbrecipe/Potato+Chilli+Fry.html
 ---
 
 <figure>

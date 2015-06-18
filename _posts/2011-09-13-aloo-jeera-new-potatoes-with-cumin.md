@@ -11,6 +11,7 @@ date: 2011-09-13T13:19:54+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Aloo+Jeera+New+Potatoes+with+Cumin.html
+  - /bbcbrecipe/Aloo+Jeera+New+Potatoes+with+Cumin.html
 ---
 
 <figure>

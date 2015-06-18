@@ -11,6 +11,7 @@ date: 2011-10-09T18:50:11+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Crisps+And+Chips.html
+  - /bbcbrecipe/Crisps+And+Chips.html
 ---
 
 <figure>

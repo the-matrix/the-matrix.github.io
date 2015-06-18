@@ -11,6 +11,7 @@ date: 2011-10-09T16:41:45+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Kofta+Sauce+#1.html
+  - /bbcbrecipe/Kofta+Sauce+#1.html
 ---
 
 <figure>

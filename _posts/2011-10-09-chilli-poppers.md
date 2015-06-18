@@ -11,6 +11,7 @@ date: 2011-10-09T18:55:06+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Chilli+Poppers.html
+  - /bbcbrecipe/Chilli+Poppers.html
 ---
 
 <figure>

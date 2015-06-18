@@ -11,6 +11,7 @@ date: 2011-10-11T07:46:36+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Chicken+Stew.html
+  - /bbcbrecipe/Chicken+Stew.html
 ---
 
 <figure>

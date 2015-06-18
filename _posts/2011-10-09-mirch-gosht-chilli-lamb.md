@@ -11,6 +11,7 @@ date: 2011-10-09T16:45:59+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Mirch+Gosht+Chilli+Lamb.html
+  - /bbcbrecipe/Mirch+Gosht+Chilli+Lamb.html
 ---
 
 <figure>

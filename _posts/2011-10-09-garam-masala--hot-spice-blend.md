@@ -11,6 +11,7 @@ date: 2011-10-09T21:51:46+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Garam+Masala++Hot+Spice+blend.html
+  - /bbcbrecipe/Garam+Masala++Hot+Spice+blend.html
 ---
 
 <figure>

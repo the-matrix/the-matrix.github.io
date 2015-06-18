@@ -11,6 +11,7 @@ date: 2011-10-09T20:50:38+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Prawn+Balchao.html
+  - /bbcbrecipe/Prawn+Balchao.html
 ---
 
 <figure>

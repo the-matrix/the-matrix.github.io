@@ -11,6 +11,7 @@ date: 2011-09-13T13:14:30+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Paneer+And+Chips.html
+  - /bbcbrecipe/Paneer+And+Chips.html
 ---
 
 <figure>

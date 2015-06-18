@@ -11,6 +11,7 @@ date: 2011-10-09T18:58:38+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Choley+Pindi+Punjabi+chick+pea+curry.html
+  - /bbcbrecipe/Choley+Pindi+Punjabi+chick+pea+curry.html
 ---
 
 <figure>

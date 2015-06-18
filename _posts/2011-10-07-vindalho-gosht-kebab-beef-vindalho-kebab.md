@@ -11,6 +11,7 @@ date: 2011-10-07T14:24:38+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Vindalho+Gosht+Kebab+Beef+Vindalho+Kebab.html
+  - /bbcbrecipe/Vindalho+Gosht+Kebab+Beef+Vindalho+Kebab.html
 ---
 
 <figure>

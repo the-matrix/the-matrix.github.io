@@ -11,6 +11,7 @@ date: 2011-10-07T01:34:00+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Pork+Vindalho.html
+  - /bbcbrecipe/Pork+Vindalho.html
 ---
 
 <figure>

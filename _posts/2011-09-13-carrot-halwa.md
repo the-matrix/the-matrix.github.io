@@ -11,6 +11,7 @@ date: 2011-09-13T12:57:15+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Carrot+Halwa.html
+  - /bbcbrecipe/Carrot+Halwa.html
 ---
 
 <figure>

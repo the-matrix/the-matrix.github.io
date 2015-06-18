@@ -11,6 +11,7 @@ date: 2011-10-09T22:04:18+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Quick+Coconut+Ice+Cream.html
+  - /bbcbrecipe/Quick+Coconut+Ice+Cream.html
 ---
 
 <figure>

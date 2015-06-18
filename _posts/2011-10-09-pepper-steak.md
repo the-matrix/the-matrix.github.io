@@ -11,6 +11,7 @@ date: 2011-10-09T21:46:35+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Pepper+Steak.html
+  - /bbcbrecipe/Pepper+Steak.html
 ---
 
 <figure>

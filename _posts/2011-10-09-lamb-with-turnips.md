@@ -11,6 +11,7 @@ date: 2011-10-09T17:02:50+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Lamb+With+Turnips.html
+  - /bbcbrecipe/Lamb+With+Turnips.html
 ---
 
 <figure>

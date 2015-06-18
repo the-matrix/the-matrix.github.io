@@ -11,6 +11,7 @@ date: 2011-10-07T13:53:05+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Green+Curry+Masala.html
+  - /bbcbrecipe/Green+Curry+Masala.html
 ---
 
 <figure>

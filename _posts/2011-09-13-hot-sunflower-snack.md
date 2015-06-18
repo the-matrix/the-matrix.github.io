@@ -11,6 +11,7 @@ date: 2011-09-13T13:14:31+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Hot+Sunflower+Snack.html
+  - /bbcbrecipe/Hot+Sunflower+Snack.html
 ---
 
 <figure>

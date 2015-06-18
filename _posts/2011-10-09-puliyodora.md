@@ -11,6 +11,7 @@ date: 2011-10-09T19:59:02+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Puliyodora.html
+  - /bbcbrecipe/Puliyodora.html
 ---
 
 <figure>

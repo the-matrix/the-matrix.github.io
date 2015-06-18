@@ -11,6 +11,7 @@ date: 2011-10-11T07:40:06+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Tarka+Dhal.html
+  - /bbcbrecipe/Tarka+Dhal.html
 ---
 
 <figure>

@@ -11,6 +11,7 @@ date: 2011-10-07T01:51:42+00:00
 comments: true
 redirect_from: 
   - /bbcb/recipe/Murgh+Ras+Chawal+Green+Chicken+Curry.html
+  - /bbcbrecipe/Murgh+Ras+Chawal+Green+Chicken+Curry.html
 ---
 
 <figure>

@@ -2,7 +2,7 @@
 layout: post
 title: "Using function as first class citizens in PHP"
 excerpt: Function as first class for PHP
-modified: 2015-06-18T23:05:32+00:00
+modified: 2015-06-19T23:05:32+00:00
 categories: PHP
 tags: [PHP,Functional]
 image:
@@ -35,7 +35,6 @@ It could have been written as
 def findFirst[Foo] (as: Array[Foo], p: Foo => Boolean): Int = {}
 </pre>
 
-The Lord have mercy on me, but that was long winded!
 
 In PHP:
 
@@ -59,12 +58,9 @@ function findFirst (array $as, \Closure $p) { ... }
 </pre>
 
 So far so bad; No return type specified, no signature for the Closure. Return type
-I can sort of live with, because it can be hinted at in the docblock, but I'm fecked
+I can sort of live with, because it can be hinted at in the docblock, but I'm blowed
 If I know what the rest of it is doing (except of course I am writing this, but 
 I hope you see my point?)
-
-I take that back; May the Lord be peaceful, I have nothing to concern Him with.
-This is a purely Human concern.
 
 Can we get round these limitations? Of course we can; Let us define another Class
 that we descend from, another Trait we can `use`. Let's not.

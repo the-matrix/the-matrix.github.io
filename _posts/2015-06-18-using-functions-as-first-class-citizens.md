@@ -67,5 +67,5 @@ I take that back; May the Lord be peaceful, I have nothing to concern Him with.
 This is a purely Human concern.
 
 Can we get round these limitations? Of course we can; Let us define another Class
-that we call descend from, another Trait we can `use`. Let's not.
+that we descend from, another Trait we can `use`. Let's not.
 

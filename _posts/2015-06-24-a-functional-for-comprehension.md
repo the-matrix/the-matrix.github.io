@@ -60,20 +60,22 @@ of `wadda f is going on here` response.  Both these shortcomings are, in my view
 alleviated by the FFor comprehension, which although slightly wordier due to the
 limitation of the PHP syntax for Closures, make reading the intent easier.
 
-In essence, this construct is a `builder pattern`, and it would be much nicer to
-write something like:
+In essence, this construct is a [`builder pattern`](https://github.com/chippyash/Builder-Pattern).
+
+And it would be much nicer to write something like:
 
 <pre>
-$drink = FFor::create()
-            ->ground((){$this->grind(new CoffeeBeans("Arabica"));})
-            ->water((){$this->heatWater(new Water(25));})
-            ->espresso(($ground, $water){$this->brew($ground, $water);})
-            ->foam((){$this->frothMilk(new Milk("skinny"));})
-            ->combine(($espresso, $foam){$this->combine($espresso, $foam);})
-            ->release('combine');
+$drink = FFor()
+    ->ground((){$this->grind(CoffeeBeans("Arabica"));})
+    ->water((){$this->heatWater(Water(25));})
+    ->espresso(($ground, $water){$this->brew($ground, $water);})
+    ->foam((){$this->frothMilk(Milk("skinny"));})
+    ->combine(($espresso, $foam){$this->combine($espresso, $foam);})
+    ->release('combine');
 </pre>
 
-i.e. without the `function` prefix, and the assumption that the last statement
+i.e. without the `function` and `new` prefixes, a class called statically will produce an
+object and the assumption that the last statement
 is the returning value.  But hey ho, might have to wait for that.  In the mean
 time, if you think you are writing too much/incomprehensible code then you can
 find the FFor comprehension in my [working repo](https://github.com/chippyash/working/blob/master/src/chippyash/Funclang/FFor.php).

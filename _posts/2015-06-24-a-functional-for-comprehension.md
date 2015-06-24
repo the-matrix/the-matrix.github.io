@@ -12,15 +12,17 @@ date: 2015-06-24T21:05:32+00:00
 ---
 
 As you get more experienced with a programming language, you learn its beauty spots,
-side alleys and cess pools.  As a developer, I'm always looking to write less code
-on a day to day basis, and PHP can be pretty verbose on a bad day.
+side alleys and cess pools.  As a developer, I'm always looking to write code that
+explains itself better, so I can avoid writing comments (lazy but true!). 
+PHP can be pretty abstruse on a bad day.
 
 One thing that arose from my recent excursions into Scala was the `For Comprehension`.  
 Scala has a neat way of grouping up a series of dependent steps, in particular
-if you look at example 2 of[this explanation](http://docs.scala-lang.org/tutorials/FAQ/yield.html), 
-then here is room for a little expansion of the venerable FOR loop in PHP.
+if you look at example 2 of [this explanation](http://docs.scala-lang.org/tutorials/FAQ/yield.html), 
+then there is room for a little expansion of the venerable FOR loop in PHP.
 
 By way of example:
+
 <pre>
 $drink = FFor::create()
             ->ground(function(){return $this->grind(new CoffeeBeans("Arabica"));})
@@ -30,6 +32,7 @@ $drink = FFor::create()
             ->combine(function($espresso, $foam){return $this->combine($espresso, $foam);})
             ->release('combine');
 </pre>
+
 
 In classic PHP, this would become something like:
 
@@ -73,7 +76,7 @@ $drink = FFor::create()
 i.e. without the `function` prefix, and the assumption that the last statement
 is the returning value.  But hey ho, might have to wait for that.  In the mean
 time, if you think you are writing too much/incomprehensible code then you can
-find the FFor comprehension in my working repo.  At the moment, I'm trying to
-figure out how to fire off each of the clauses as asynchronous items.  I may fail 
-at this, but in any event the FFor construct will make it into a Packagist
-format some time soon.
+find the FFor comprehension in my [working repo](https://github.com/chippyash/working/blob/master/src/chippyash/Funclang/FFor.php).
+At the moment, I'm trying to figure out how to fire off each of the clauses as 
+asynchronous items.  I may fail  at this, but in any event the FFor construct 
+will make it into a Packagist format some time soon.

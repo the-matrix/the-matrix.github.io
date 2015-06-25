@@ -94,3 +94,6 @@ Run the examples/OneManCoffeeShop.php script to see it in action.
 
 Check out this blog later for an article that explains how it works, there are some
 neat tricks involved, or simply read the source code ;-)
+
+Also check out the test code, it will (hopefully) give you insight into how it is
+all used before I get the chance to complete the documentation.

@@ -2,7 +2,7 @@
 layout: post
 title: "A Functional For Comprehension"
 excerpt: Making PHP code more readable
-modified: 2015-06-24T21:05:32+00:00
+modified: 2015-06-25T21:05:32+00:00
 categories: PHP
 tags: [PHP,Functional,For]
 image:
@@ -82,3 +82,15 @@ find the FFor comprehension in my [working repo](https://github.com/chippyash/wo
 At the moment, I'm trying to figure out how to fire off each of the clauses as 
 asynchronous items.  I may fail  at this, but in any event the FFor construct 
 will make it into a Packagist format some time soon.
+
+## Addendum
+
+Having had a bit of time to think about this, it really is a form of a builder pattern.
+With this in mind, I've renamed it, modified it and made it a bit more generic.
+It is still synchronous, but the async stuff is under way.  You can find the soon
+to be `packaged for packagist` library in my [Assembler Library](https://github.com/chippyash/assembler-builder-pattern) 
+
+Run the examples/OneManCoffeeShop.php script to see it in action.
+
+Check out this blog later for an article that explains how it works, there are some
+neat tricks involved, or simply read the source code ;-)

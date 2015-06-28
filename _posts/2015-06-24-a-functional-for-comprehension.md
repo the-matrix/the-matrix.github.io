@@ -88,7 +88,7 @@ will make it into a Packagist format some time soon.
 Having had a bit of time to think about this, it really is a form of a builder pattern.
 With this in mind, I've renamed it, modified it and made it a bit more generic.
 It is still synchronous, but the async stuff is under way.  You can find the soon
-to be `packaged for packagist` library in my [Assembler Library](https://github.com/chippyash/assembler-builder-pattern) 
+to be `packaged for packagist` library in my [Assembler Library](https://github.com/chippyash/Assembly-Builder) 
 
 Run the examples/OneManCoffeeShop.php script to see it in action.
 

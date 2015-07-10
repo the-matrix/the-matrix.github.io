@@ -2,22 +2,23 @@
 layout: post
 title: "A Proper IDE for PHP"
 excerpt: Making PHP development a joy again
-modified: 2015-07-16T21:05:32+00:00
+modified: 2015-07-10T21:05:32+00:00
 categories: PHP
 tags: [PHP, IDE]
 image:
   feature: the-matrix-slim.jpg
 comments: true
-date: 2015-07-16T21:05:32+00:00
+date: 2015-07-10T21:05:32+00:00
 ---
 
 Those of you that have been around PHP long enough will remember Zend Studio
-before it took a nose dive into Eclipse. Ah I hear, yes Studio 6.
+before it took a nose dive into Eclipse. Ah I hear, yes: Studio 6.
 
 Great bit of software, client based, fast, efficient, let me code, let me debug
 (using the venerable xdebug.) All in all, great.
 
 Then Zend decided to hook their train to Eclipse and it all went sadly wrong:
+
 - buggy
 - very very slow
 

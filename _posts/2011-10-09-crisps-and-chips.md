@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Crisps+And+Chips.html
   - /bbcbrecipe/Crisps+And+Chips.html
+redirect_to: http://bbcb.co.uk/crisps-and-chips
 ---
 
 <figure>

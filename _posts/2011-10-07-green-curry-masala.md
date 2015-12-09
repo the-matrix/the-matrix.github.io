@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Green+Curry+Masala.html
   - /bbcbrecipe/Green+Curry+Masala.html
+redirect_to: http://bbcb.co.uk/green-curry-masala
 ---
 
 <figure>

@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Char+Masala.html
   - /bbcbrecipe/Char+Masala.html
+redirect_to: http://bbcb.co.uk/char-masala
 ---
 
 <figure>

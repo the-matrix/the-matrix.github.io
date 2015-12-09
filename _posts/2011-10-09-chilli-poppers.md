@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Chilli+Poppers.html
   - /bbcbrecipe/Chilli+Poppers.html
+redirect_to: http://bbcb.co.uk/chilli-poppers
 ---
 
 <figure>

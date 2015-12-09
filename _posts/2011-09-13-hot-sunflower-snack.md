@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Hot+Sunflower+Snack.html
   - /bbcbrecipe/Hot+Sunflower+Snack.html
+redirect_to: http://bbcb.co.uk/hot-sunflower-snack
 ---
 
 <figure>

@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Panch+Phoran.html
   - /bbcbrecipe/Panch+Phoran.html
+redirect_to: http://bbcb.co.uk/panch-phoran
 ---
 
 <figure>

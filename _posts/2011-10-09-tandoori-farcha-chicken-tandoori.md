@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Tandoori+Farcha+Chicken+Tandoori.html
   - /bbcbrecipe/Tandoori+Farcha+Chicken+Tandoori.html
+redirect_to: http://bbcb.co.uk/tandoori-farcha-chicken-tandoori
 ---
 
 <figure>

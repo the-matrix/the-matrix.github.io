@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Pork+Vindalho.html
   - /bbcbrecipe/Pork+Vindalho.html
+redirect_to: http://bbcb.co.uk/pork-vindalho
 ---
 
 <figure>

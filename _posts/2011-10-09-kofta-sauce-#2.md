@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Kofta+Sauce+#2.html
   - /bbcbrecipe/Kofta+Sauce+#2.html
+redirect_to: http://bbcb.co.uk/kofta-sauce-2
 ---
 
 <figure>

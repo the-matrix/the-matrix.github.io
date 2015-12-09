@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Phudina+Dahi+Mint+Dip.html
   - /bbcbrecipe/Phudina+Dahi+Mint+Dip.html
+redirect_to: http://bbcb.co.uk/phudina-dahi-mint-dip
 ---
 
 <figure>

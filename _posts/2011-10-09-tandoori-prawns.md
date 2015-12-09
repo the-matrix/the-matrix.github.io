@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Tandoori+Prawns.html
   - /bbcbrecipe/Tandoori+Prawns.html
+redirect_to: http://bbcb.co.uk/tandoori-prawns
 ---
 
 <figure>

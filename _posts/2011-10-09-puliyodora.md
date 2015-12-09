@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Puliyodora.html
   - /bbcbrecipe/Puliyodora.html
+redirect_to: http://bbcb.co.uk/puliyodora
 ---
 
 <figure>

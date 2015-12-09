@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Pepper+Steak.html
   - /bbcbrecipe/Pepper+Steak.html
+redirect_to: http://bbcb.co.uk/pepper-steak
 ---
 
 <figure>

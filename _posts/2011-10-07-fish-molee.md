@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Fish+Molee.html
   - /bbcbrecipe/Fish+Molee.html
+redirect_to: http://bbcb.co.uk/fish-molee
 ---
 
 <figure>

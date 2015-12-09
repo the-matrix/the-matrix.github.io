@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Stir+Fry+Vegetables+Goan+Style.html
   - /bbcbrecipe/Stir+Fry+Vegetables+Goan+Style.html
+redirect_to: http://bbcb.co.uk/stir-fry-vegetables-goan-style
 ---
 
 <figure>

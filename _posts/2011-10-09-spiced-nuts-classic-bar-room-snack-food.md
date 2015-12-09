@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Spiced+Nuts+Classic+bar+room+snack+food.html
   - /bbcbrecipe/Spiced+Nuts+Classic+bar+room+snack+food.html
+redirect_to: http://bbcb.co.uk/spiced-nuts-classic-bar-room-snack-food
 ---
 
 <figure>

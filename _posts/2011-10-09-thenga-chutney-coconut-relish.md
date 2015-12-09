@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Thenga+Chutney+Coconut+Relish.html
   - /bbcbrecipe/Thenga+Chutney+Coconut+Relish.html
+redirect_to: http://bbcb.co.uk/thenga-chutney-coconut-relish
 ---
 
 <figure>

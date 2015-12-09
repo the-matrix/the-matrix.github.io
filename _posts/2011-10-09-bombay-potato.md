@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Bombay+Potato.html
   - /bbcbrecipe/Bombay+Potato.html
+redirect_to: http://bbcb.co.uk/bombay-potato
 ---
 
 <figure>

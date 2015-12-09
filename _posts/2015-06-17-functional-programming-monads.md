@@ -9,6 +9,7 @@ image:
   feature: the-matrix-slim.jpg
 comments: true
 date: 2015-06-17T23:05:32+00:00
+redirect_to: http://zf4.biz/blog/functional-programming-monads
 ---
 
 I've recently started to seriously learn [Scala](http://www.scala-lang.org/) (so

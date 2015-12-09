@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Kabuli+Channa.html
   - /bbcbrecipe/Kabuli+Channa.html
+redirect_to: http://bbcb.co.uk/kabuli-channa
 ---
 
 <figure>

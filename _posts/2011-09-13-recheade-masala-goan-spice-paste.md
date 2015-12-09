@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Recheade+Masala+Goan+Spice+Paste.html
   - /bbcbrecipe/Recheade+Masala+Goan+Spice+Paste.html
+redirect_to: http://bbcb.co.uk/recheade-masala-goan-spice-paste
 ---
 
 <figure>

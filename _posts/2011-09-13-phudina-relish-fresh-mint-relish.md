@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Phudina+Relish+Fresh+Mint+Relish.html
   - /bbcbrecipe/Phudina+Relish+Fresh+Mint+Relish.html
+redirect_to: http://bbcb.co.uk/phudina-relish-fresh-mint-relish
 ---
 
 <figure>

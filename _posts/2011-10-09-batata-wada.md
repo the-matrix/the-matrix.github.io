@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Batata+Wada.html
   - /bbcbrecipe/Batata+Wada.html
+redirect_to: http://bbcb.co.uk/batata-wada
 ---
 
 <figure>

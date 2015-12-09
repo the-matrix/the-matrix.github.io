@@ -9,6 +9,7 @@ image:
   feature: the-matrix-slim.jpg
 comments: true
 date: 2014-12-21T18:57:15+00:00
+redirect_to: http://zf4.biz/blog/creating-zend-acl-definitions-from-xml
 ---
 
 In the current project I am working on, I use the Symfony Dependency Injection

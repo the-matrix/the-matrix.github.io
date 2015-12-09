@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Alle+Chutney+Ginger+Chutney.html
   - /bbcbrecipe/Alle+Chutney+Ginger+Chutney.html
+redirect_to: http://bbcb.co.uk/alle-chutney-ginger-chutney
 ---
 
 <figure>

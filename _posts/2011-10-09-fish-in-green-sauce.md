@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Fish+In+Green+Sauce.html
   - /bbcbrecipe/Fish+In+Green+Sauce.html
+redirect_to: http://bbcb.co.uk/fish-in-green-sauce
 ---
 
 <figure>

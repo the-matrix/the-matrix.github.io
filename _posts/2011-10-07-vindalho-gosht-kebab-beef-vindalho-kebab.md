@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Vindalho+Gosht+Kebab+Beef+Vindalho+Kebab.html
   - /bbcbrecipe/Vindalho+Gosht+Kebab+Beef+Vindalho+Kebab.html
+redirect_to: http://bbcb.co.uk/vindalho-gosht-kebab-beef-vindalho-kebab
 ---
 
 <figure>

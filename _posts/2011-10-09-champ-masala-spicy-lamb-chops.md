@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Champ+Masala+Spicy+Lamb+Chops.html
   - /bbcbrecipe/Champ+Masala+Spicy+Lamb+Chops.html
+redirect_to: http://bbcb.co.uk/champ-masala-spicy-lamb-chops
 ---
 
 <figure>

@@ -9,6 +9,7 @@ image:
   feature: the-matrix-slim.jpg
 comments: true
 date: 2015-03-15T23:05:32+00:00
+redirect_to: http://zf4.biz/blog/service-data-objects
 ---
 
 Service Data Objects (SDO) have a [long history](http://en.wikipedia.org/wiki/Service_Data_Objects), 

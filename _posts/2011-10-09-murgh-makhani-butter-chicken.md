@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Murgh+Makhani+Butter+Chicken.html
   - /bbcbrecipe/Murgh+Makhani+Butter+Chicken.html
+redirect_to: http://bbcb.co.uk/murgh-makhani-butter-chicken
 ---
 
 <figure>

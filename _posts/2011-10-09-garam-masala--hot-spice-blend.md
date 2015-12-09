@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Garam+Masala++Hot+Spice+blend.html
   - /bbcbrecipe/Garam+Masala++Hot+Spice+blend.html
+redirect_to: http://bbcb.co.uk/garam-masala--hot-spice-blend
 ---
 
 <figure>

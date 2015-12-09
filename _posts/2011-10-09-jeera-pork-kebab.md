@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Jeera+Pork+Kebab.html
   - /bbcbrecipe/Jeera+Pork+Kebab.html
+redirect_to: http://bbcb.co.uk/jeera-pork-kebab
 ---
 
 <figure>

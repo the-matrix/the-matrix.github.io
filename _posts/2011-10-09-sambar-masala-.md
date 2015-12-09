@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Sambar+Masala+.html
   - /bbcbrecipe/Sambar+Masala+.html
+redirect_to: http://bbcb.co.uk/sambar-masala
 ---
 
 <figure>

@@ -9,6 +9,7 @@ image:
   feature: the-matrix-slim.jpg
 comments: true
 date: 2014-12-22T23:29:56+00:00
+redirect_to: http://zf4.biz/blog/creating-an-xsd-server-using-slim
 ---
 
 Following the work I did yesterday to create Zend ACL definitions from XML files,

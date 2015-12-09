@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Tindori+Thoran.html
   - /bbcbrecipe/Tindori+Thoran.html
+redirect_to: http://bbcb.co.uk/tindori-thoran
 ---
 
 <figure>

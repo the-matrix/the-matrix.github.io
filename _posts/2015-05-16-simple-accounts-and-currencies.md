@@ -9,6 +9,7 @@ image:
   feature: the-matrix-slim.jpg
 comments: true
 date: 2015-05-16T23:05:32+00:00
+redirect_to: http://zf4.biz/blog/simple-accountsand-currencies
 ---
 
 Whilst full blown accounting systems are available, requiring a massive 

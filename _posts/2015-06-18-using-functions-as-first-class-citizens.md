@@ -9,6 +9,7 @@ image:
   feature: the-matrix-slim.jpg
 comments: true
 date: 2015-06-18T23:05:32+00:00
+redirect_to: http://zf4.biz/blog/using-functions-as-first-class-citizens
 ---
 
 Consider this:

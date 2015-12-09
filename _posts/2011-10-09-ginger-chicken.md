@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Ginger+Chicken.html
   - /bbcbrecipe/Ginger+Chicken.html
+redirect_to: http://bbcb.co.uk/ginger-chicken
 ---
 
 <figure>

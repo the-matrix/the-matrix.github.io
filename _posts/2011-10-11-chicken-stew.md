@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Chicken+Stew.html
   - /bbcbrecipe/Chicken+Stew.html
+redirect_to: http://bbcb.co.uk/chicken-stew
 ---
 
 <figure>

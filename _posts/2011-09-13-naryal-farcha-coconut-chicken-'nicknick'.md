@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Naryal+Farcha+Coconut+Chicken+'NickNick'.html
   - /bbcbrecipe/Naryal+Farcha+Coconut+Chicken+'NickNick'.html
+redirect_to: http://bbcb.co.uk/naryal-farcha-coconut-chicken-'nicknick'
 ---
 
 <figure>

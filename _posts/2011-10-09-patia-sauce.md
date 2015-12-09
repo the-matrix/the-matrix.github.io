@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Patia+Sauce.html
   - /bbcbrecipe/Patia+Sauce.html
+redirect_to: http://bbcb.co.uk/patia-sauce
 ---
 
 <figure>

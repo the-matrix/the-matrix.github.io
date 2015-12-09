@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Basic+Curry+Powder.html
   - /bbcbrecipe/Basic+Curry+Powder.html
+redirect_to: http://bbcb.co.uk/basic-curry-powder
 ---
 
 <figure>

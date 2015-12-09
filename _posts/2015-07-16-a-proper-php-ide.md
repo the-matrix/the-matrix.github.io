@@ -9,6 +9,7 @@ image:
   feature: the-matrix-slim.jpg
 comments: true
 date: 2015-07-10T21:05:32+00:00
+redirect_to: http://zf4.biz/blog/a-proper-php-ide
 ---
 
 Those of you that have been around PHP long enough will remember Zend Studio

@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Fresh+Coriander+Relish+Dhania+Patha+Relish.html
   - /bbcbrecipe/Fresh+Coriander+Relish+Dhania+Patha+Relish.html
+redirect_to: http://bbcb.co.uk/fresh-coriander-relish-dhania-patha-relish
 ---
 
 <figure>

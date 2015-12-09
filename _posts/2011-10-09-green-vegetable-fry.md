@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Green+Vegetable+Fry.html
   - /bbcbrecipe/Green+Vegetable+Fry.html
+redirect_to: http://bbcb.co.uk/green-vegetable-fry
 ---
 
 <figure>

@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/20+Chilli+Chicken.html
   - /bbcbrecipe/20+Chilli+Chicken.html
+redirect_to: http://bbcb.co.uk/20-chilli-chicken
 ---
 
 <figure>

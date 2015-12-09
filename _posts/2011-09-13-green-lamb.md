@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Green+Lamb.html
   - /bbcbrecipe/Green+Lamb.html
+redirect_to: http://bbcb.co.uk/green-lamb
 ---
 
 <figure>

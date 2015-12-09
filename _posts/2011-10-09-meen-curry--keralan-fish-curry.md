@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Meen+Curry++Keralan+Fish+Curry.html
   - /bbcbrecipe/Meen+Curry++Keralan+Fish+Curry.html
+redirect_to: http://bbcb.co.uk/meen-curry--keralan-fish-curry
 ---
 
 <figure>

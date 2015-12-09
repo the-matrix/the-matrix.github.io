@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Chat+Masala.html
   - /bbcbrecipe/Chat+Masala.html
+redirect_to: http://bbcb.co.uk/chat-masala
 ---
 
 <figure>

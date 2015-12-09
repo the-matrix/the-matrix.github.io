@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Tandoori+Masala.html
   - /bbcbrecipe/Tandoori+Masala.html
+redirect_to: http://bbcb.co.uk/tandoori-masala
 ---
 
 <figure>

@@ -9,6 +9,7 @@ image:
   feature: the-matrix-slim.jpg
 comments: true
 date: 2014-12-21T12:25:07+00:00
+redirect_to: http://zf4.biz/blog/builder-pattern-gets-closures
 ---
 
 In a small feature change to the Builder Pattern library, I've added the ability

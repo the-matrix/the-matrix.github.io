@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Kachoomba.html
   - /bbcbrecipe/Kachoomba.html
+redirect_to: http://bbcb.co.uk/kachoomba
 ---
 
 <figure>

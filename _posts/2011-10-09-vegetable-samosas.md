@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Vegetable+Samosas.html
   - /bbcbrecipe/Vegetable+Samosas.html
+redirect_to: http://bbcb.co.uk/vegetable-samosas
 ---
 
 <figure>

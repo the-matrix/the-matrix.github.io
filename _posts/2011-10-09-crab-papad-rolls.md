@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Crab+Papad+Rolls.html
   - /bbcbrecipe/Crab+Papad+Rolls.html
+redirect_to: http://bbcb.co.uk/crab-papad-rolls
 ---
 
 <figure>

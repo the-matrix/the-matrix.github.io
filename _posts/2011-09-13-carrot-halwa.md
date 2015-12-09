@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Carrot+Halwa.html
   - /bbcbrecipe/Carrot+Halwa.html
+redirect_to: http://bbcb.co.uk/carrot-halwa
 ---
 
 <figure>

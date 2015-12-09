@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Apple+And+Potato+Bhajee.html
   - /bbcbrecipe/Apple+And+Potato+Bhajee.html
+redirect_to: http://bbcb.co.uk/apple-and-potato-bhajee
 ---
 
 <figure>

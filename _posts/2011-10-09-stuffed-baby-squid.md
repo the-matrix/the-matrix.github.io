@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Stuffed+Baby+Squid.html
   - /bbcbrecipe/Stuffed+Baby+Squid.html
+redirect_to: http://bbcb.co.uk/stuffed-baby-squid
 ---
 
 <figure>

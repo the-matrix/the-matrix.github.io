@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Quick+Coconut+Ice+Cream.html
   - /bbcbrecipe/Quick+Coconut+Ice+Cream.html
+redirect_to: http://bbcb.co.uk/quick-cocnut-ice-cream
 ---
 
 <figure>

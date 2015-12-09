@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Paneer+And+Chips.html
   - /bbcbrecipe/Paneer+And+Chips.html
+redirect_to: http://bbcb.co.uk/paneer-and-chips
 ---
 
 <figure>

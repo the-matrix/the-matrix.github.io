@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Summer+Tindora.html
   - /bbcbrecipe/Summer+Tindora.html
+redirect_to: http://bbcb.co.uk/summer-tindora
 ---
 
 <figure>

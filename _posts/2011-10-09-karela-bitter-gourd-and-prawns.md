@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Karela+Bitter+Gourd+and+Prawns.html
   - /bbcbrecipe/Karela+Bitter+Gourd+and+Prawns.html
+redirect_to: http://bbcb.co.uk/karela-bitter-gourd-and-prawns
 ---
 
 <figure>

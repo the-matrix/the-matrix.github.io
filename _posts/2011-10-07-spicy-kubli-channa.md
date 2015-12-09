@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Spicy+Kubli+Channa.html
   - /bbcbrecipe/Spicy+Kubli+Channa.html
+redirect_to: http://bbcb.co.uk/spicy-kubli-channa
 ---
 
 <figure>

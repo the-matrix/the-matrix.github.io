@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Mirch+Gosht+Chilli+Lamb.html
   - /bbcbrecipe/Mirch+Gosht+Chilli+Lamb.html
+redirect_to: http://bbcb.co.uk/mirch-gosht-chilli-lamb
 ---
 
 <figure>

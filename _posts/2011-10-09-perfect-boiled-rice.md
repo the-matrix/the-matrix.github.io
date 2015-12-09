@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Perfect+boiled+rice.html
   - /bbcbrecipe/Perfect+boiled+rice.html
+redirect_to: http://bbcb.co.uk/perfect-boiled-rice
 ---
 
 <figure>

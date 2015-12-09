@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Prawn+Balchao.html
   - /bbcbrecipe/Prawn+Balchao.html
+redirect_to: http://bbcb.co.uk/prawn-balchao
 ---
 
 <figure>

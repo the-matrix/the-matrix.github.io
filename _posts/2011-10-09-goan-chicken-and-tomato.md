@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Goan+Chicken+And+Tomato.html
   - /bbcbrecipe/Goan+Chicken+And+Tomato.html
+redirect_to: http://bbcb.co.uk/goan-chicken-and-tomato
 ---
 
 <figure>

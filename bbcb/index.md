@@ -7,33 +7,18 @@ modified: 2015-01-08T08:29:07.573882-04:00
 comments: false
 redirect_from: 
   - /bbcb.html
+redirect_to: http://bbcb.co.uk
 image:
   feature: the-matrix-slim.jpg
 ---
 
-<div class="home">
+The Big Boys Curry Book has moved. If you have reached this page then it is
+likely that you have a hard link to it.  Please change your link to http://bbcb.co.uk
 
-<p>Many years ago, when I was just a small boy, ....</p>
+That will always find the right place through redirection.
 
-<p>Nah, that's rubbish!</p>
+Click [here](http://bbcb.co.uk) to go to the right place now.
 
-<p>My first PHP web site was called 'The Big Boys Curry Book' and was launched too
-many years ago to remember.  It's been defunct for a few years now so I thought
-it might be fun to sort of relaunch it here as an archive of the recipes.</p>
+Have fun!
 
-<p>You can find the <a href="/big-boys-curry-book/glossary/">glossary here</a></p>
-
-<h3>The recipes</h3>
-  <ul class="post-list">
-    {% assign sorted_pages = (site.categories.big-boys-curry-book | sort: 'title') %}
-    {% for post in sorted_pages %}
-      <li>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
 

@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Aloo+Jeera+New+Potatoes+with+Cumin.html
   - /bbcbrecipe/Aloo+Jeera+New+Potatoes+with+Cumin.html
+redirect_to: http://bbcb.co.uk/aloo-jeera-new-potatoes-with-cummin
 ---
 
 <figure>

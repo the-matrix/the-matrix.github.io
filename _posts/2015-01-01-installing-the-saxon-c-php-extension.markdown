@@ -9,6 +9,7 @@ image:
   feature: the-matrix-slim.jpg
 comments: true
 date: 2015-01-01T18:35:32+00:00
+redirect_to: http://zf4.biz/blog/installing-the-saxon-c-php-extension
 ---
 
 XSLT support for PHP is limited to [XSLT Version 1](http://php.net/manual/en/book.xsl.php).  

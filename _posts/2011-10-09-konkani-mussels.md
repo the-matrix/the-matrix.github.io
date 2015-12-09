@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Konkani+Mussels.html
   - /bbcbrecipe/Konkani+Mussels.html
+redirect_to: http://bbcb.co.uk/konkani-mussels
 ---
 
 <figure>

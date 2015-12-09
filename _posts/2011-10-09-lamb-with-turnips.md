@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Lamb+With+Turnips.html
   - /bbcbrecipe/Lamb+With+Turnips.html
+redirect_to: http://bbcb.co.uk/lamb-with-turnips
 ---
 
 <figure>

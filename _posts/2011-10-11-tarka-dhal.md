@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Tarka+Dhal.html
   - /bbcbrecipe/Tarka+Dhal.html
+redirect_to: http://bbcb.co.uk/tarka-dhal
 ---
 
 <figure>

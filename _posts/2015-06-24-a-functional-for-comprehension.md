@@ -9,6 +9,7 @@ image:
   feature: the-matrix-slim.jpg
 comments: true
 date: 2015-06-24T21:05:32+00:00
+redirect_to: http://zf4.biz/blog/a-functional-for-comprehension
 ---
 
 As you get more experienced with a programming language, you learn its beauty spots,

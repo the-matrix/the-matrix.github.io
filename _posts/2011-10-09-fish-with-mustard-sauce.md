@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Fish+With+Mustard+Sauce.html
   - /bbcbrecipe/Fish+With+Mustard+Sauce.html
+redirect_to: http://bbcb.co.uk/fish-with-mustard-sauce
 ---
 
 <figure>

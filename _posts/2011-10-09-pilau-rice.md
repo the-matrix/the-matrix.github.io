@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Pilau+Rice.html
   - /bbcbrecipe/Pilau+Rice.html
+redirect_to: http://bbcb.co.uk/pilau-rice
 ---
 
 <figure>

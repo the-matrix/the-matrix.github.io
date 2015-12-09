@@ -13,6 +13,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Turkey+Mussalum.html
   - /bbcbrecipe/Turkey+Mussalum.html
+redirect_to: http://bbcb.co.uk/turkey-mussalum
 ---
 
 <figure>

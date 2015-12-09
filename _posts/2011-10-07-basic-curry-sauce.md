@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Basic+Curry+Sauce.html
   - /bbcbrecipe/Basic+Curry+Sauce.html
+redirect_to: http://bbcb.co.uk/basic-curry-sauce
 ---
 
 <figure>

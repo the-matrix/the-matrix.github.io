@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Choley+Pindi+Punjabi+chick+pea+curry.html
   - /bbcbrecipe/Choley+Pindi+Punjabi+chick+pea+curry.html
+redirect_to: http://bbcb.co.uk/choley-pindi-punjabi-chick-pea-curry
 ---
 
 <figure>

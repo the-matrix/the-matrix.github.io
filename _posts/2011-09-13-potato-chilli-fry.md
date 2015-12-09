@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Potato+Chilli+Fry.html
   - /bbcbrecipe/Potato+Chilli+Fry.html
+redirect_to: http://bbcb.co.uk/potato-chilli-fry
 ---
 
 <figure>

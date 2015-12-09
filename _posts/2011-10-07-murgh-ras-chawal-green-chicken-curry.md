@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Murgh+Ras+Chawal+Green+Chicken+Curry.html
   - /bbcbrecipe/Murgh+Ras+Chawal+Green+Chicken+Curry.html
+redirect_to: http://bbcb.co.uk/murgh-ras-chawal-green-chicken-curry
 ---
 
 <figure>

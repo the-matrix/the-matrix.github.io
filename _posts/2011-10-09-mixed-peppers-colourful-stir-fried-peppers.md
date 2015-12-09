@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Mixed+Peppers+Colourful+stir+fried+peppers.html
   - /bbcbrecipe/Mixed+Peppers+Colourful+stir+fried+peppers.html
+redirect_to: http://bbcb.co.uk/mixed-peppers-colourful-stir-fried-peppers
 ---
 
 <figure>

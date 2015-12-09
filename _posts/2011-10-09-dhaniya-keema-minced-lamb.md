@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Dhaniya+Keema+Minced+Lamb.html
   - /bbcbrecipe/Dhaniya+Keema+Minced+Lamb.html
+redirect_to: http://bbcb.co.uk/dhaniya-keema-minced-lamb
 ---
 
 <figure>

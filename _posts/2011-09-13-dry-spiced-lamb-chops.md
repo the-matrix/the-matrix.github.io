@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Dry+Spiced+Lamb+Chops.html
   - /bbcbrecipe/Dry+Spiced+Lamb+Chops.html
+redirect_to: http://bbcb.co.uk/dry-spiced-lamb-chops
 ---
 
 <figure>

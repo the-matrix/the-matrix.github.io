@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Indian+Salad.html
   - /bbcbrecipe/Indian+Salad.html
+redirect_to: http://bbcb.co.uk/indian-salad
 ---
 
 <figure>

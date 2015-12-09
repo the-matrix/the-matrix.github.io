@@ -12,6 +12,7 @@ comments: true
 redirect_from: 
   - /bbcb/recipe/Tandoori+Marinade.html
   - /bbcbrecipe/Tandoori+Marinade.html
+redirect_to: http://bbcb.co.uk/tandoori-marinade
 ---
 
 <figure>

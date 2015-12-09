@@ -33,17 +33,12 @@
     {% include _author-bio.html %}
   </div>
   <div id="index">
-    <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
-    {% for post in site.posts limit:5 %}    
-    <article>
-      {% if post.link %}
-        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
-      {% else %}
-        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-      {% endif %}
-    </article>
-    {% endfor %}
+    <h3>The blog has moved</h3>
+    <p>Please note that the PHP blog and BBCB blog have moved to <a href="http://zf4.biz/blog">http://zf4.biz/blog</a>
+        and <a href="http://zf4.biz/bbcb">http://zf4.biz/bbcb</a> respectively.</p>
+    <p>Package information for the various Chippyash and Matrix libraries and utilities
+    will be staying here.</p>
+    
   </div><!-- /#index -->
 </div><!-- /#main -->
 

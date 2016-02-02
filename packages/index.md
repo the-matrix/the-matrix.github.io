@@ -13,7 +13,7 @@ image:
 
 <dl>
     <dt>Slim-Dic-Example</dt>
-    <dd>A Slim Framework skeleton application utilising Symfony DIC to create a super thin MVC. 
+    <dd>A Slim Framework skeleton application utilising Symfony DIC to create a super thin MVC. Slim V3 and V2 + Symfony 2 available
         <dl>
             <dt>Github</dt>
             <dd><a href="https://github.com/the-matrix/Slim-Dic-Example">https://github.com/the-matrix/Slim-Dic-Example</a></dd>
@@ -96,8 +96,18 @@ image:
 ### Dependency injection
 
 <dl>
-    <dt>Slim DIC</dt>
-    <dd>Provides Symfony Dependency Injection for a Slim Application
+    <dt>Slim DIC V3</dt>
+    <dd>Provides Symfony V2 Dependency Injection for a Slim V3 Application
+        <dl>
+            <dt>Github</dt>
+            <dd><a href="https://github.com/chippyash/Slim-Symfony-Dic">https://github.com/chippyash/Slim-Symfony-Dic</a></dd>
+            <dt>Packagist</dt>
+            <dd><a href="https://packagist.org/packages/chippyash/slim-symfony-dic">https://packagist.org/packages/chippyash/slim-symfony-dic</a></dd>
+        </dl>
+    </dd>
+    
+    <dt>Slim DIC V2</dt>
+    <dd>Provides Symfony V2 Dependency Injection for a Slim V2 Application
         <dl>
             <dt>Github</dt>
             <dd><a href="https://github.com/chippyash/Slim-Dic">https://github.com/chippyash/Slim-Dic</a></dd>
@@ -129,6 +139,16 @@ image:
             <dd><a href="https://packagist.org/packages/chippyash/zend-acl-xml-builder">https://packagist.org/packages/chippyash/zend-acl-xml-builder</a></dd>
         </dl>
     </dd>
+    
+    <dt>Assembly Builder</dt>
+    <dd>A lightweight value assembly builder emulating Scala For Comprehensions but much more useful
+        <dl>
+            <dt>Github</dt>
+            <dd><a href="https://github.com/chippyash/Assembly-Builder">https://github.com/chippyash/Assembly-Builder</a></dd>
+            <dt>Packagist</dt>
+            <dd><a href="https://packagist.org/packages/chippyash/assembly-builder">https://packagist.org/packages/chippyash/assembly-builder</a></dd>
+        </dl>
+    </dd>
 </dl>
 
 ### Service Data Objects
@@ -155,6 +175,26 @@ image:
             <dd><a href="https://github.com/chippyash/Monad">https://github.com/chippyash/Monad</a></dd>
             <dt>Packagist</dt>
             <dd><a href="https://packagist.org/packages/chippyash/monad">https://packagist.org/packages/chippyash/monad</a></dd>
+        </dl>
+    </dd>
+
+    <dt>Assembly Builder</dt>
+    <dd>A lightweight value assembly builder emulating Scala For Comprehensions but much more useful
+        <dl>
+            <dt>Github</dt>
+            <dd><a href="https://github.com/chippyash/Assembly-Builder">https://github.com/chippyash/Assembly-Builder</a></dd>
+            <dt>Packagist</dt>
+            <dd><a href="https://packagist.org/packages/chippyash/assembly-builder">https://packagist.org/packages/chippyash/assembly-builder</a></dd>
+        </dl>
+    </dd>
+    
+    <dt>Complex functional data validation for PHP</dt>
+    <dd>Validate just about anything.  Great basis for validating non xml data 
+        <dl>
+            <dt>Github</dt>
+            <dd><a href="https://github.com/chippyash/Validation">https://github.com/chippyash/Validation</a></dd>
+            <dt>Packagist</dt>
+            <dd><a href="https://packagist.org/packages/chippyash/validation">https://packagist.org/packages/chippyash/validation</a></dd>
         </dl>
     </dd>
 </dl>
